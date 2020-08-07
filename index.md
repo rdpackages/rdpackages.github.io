@@ -1,6 +1,7 @@
 ## RD Designs Software Packages
 
-This work was supported in part by the National Science Foundation through grants&nbsp;<a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561" target="_blank">SES-1357561</a>, <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931" target="_blank">SES-1459931</a>, <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967" target="_blank">SES-1459967</a>, <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662" target="_blank">SES-1947662</a>, <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805" target="_blank">SES-1947805</a>, and <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432" target="_blank">SES-2019432</a>.<br>
+This work was supported in part by the National Science Foundation through grants [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561), [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931), [SES-1459967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967), [SES-1947662](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662), [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805), and [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432).
+
 <br>
 
 <b>Software available in R and Stata</b>:<br>
