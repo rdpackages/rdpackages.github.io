@@ -1,53 +1,36 @@
-## RD Designs Software Packages
+### RD Designs Software Packages
 
 This work was supported in part by the National Science Foundation through grants [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561), [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931), [SES-1459967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967), [SES-1947662](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662), [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805), and [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432).
 
-<br>
+### Software available in R and Stata:
 
-<b>Software available in R and Stata</b>:<br>
+- [rdrobust](https://github.com/rdpackages/rdrobust): inference and graphical procedures using local polynomial and partitioning regression methods.
 
-<blockquote style="margin:5px 0px 0px 40px;border:none;padding:0px">
-<b><font face="courier new, monospace"><a href="https://sites.google.com/site/rdpackages/rdrobust">rdrobust</a></font></b>: inference and graphical procedures using local polynomial and partitioning regression methods.
-</blockquote>
+- [rdlocrand](https://github.com/rdpackages/rdlocrand): finite-sample inference for RD designs using local randomization and related methods.
 
-<blockquote style="margin:5px 0px 0px 40px;border:none;padding:0px">
-<b><font face="courier new, monospace"><a href="https://sites.google.com/site/rdpackages/rdlocrand">rdlocrand</a></font></b>: finite-sample inference using local randomization methods.
-</blockquote>
+- [rddensity](https://github.com/rdpackages/rddensity): manipulation testing using local polynomial density methods.
 
-<blockquote style="margin:5px 0px 0px 40px;border:none;padding:0px">
-<b><font face="courier new, monospace"><a href="https://sites.google.com/site/rdpackages/rddensity">rddensity</a></font></b>: manipulation testing using local polynomial density methods.
-</blockquote>
+- [rdmulti](https://github.com/rdpackages/rdmulti): estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
 
-<blockquote style="margin:5px 0px 0px 40px;border:none;padding:0px">
-<b><font face="courier new, monospace"><a href="https://sites.google.com/site/rdpackages/rdmulti">rdmulti</a></font></b>: estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
-</blockquote>
+- [rdpower](https://github.com/rdpackages/rdpower): power and sample size calculations using robust bias-corrected local polynomial inference.
 
-<blockquote style="margin:5px 0px 0px 40px;border:none;padding:0px">
-<b><font face="courier new, monospace"><a href="https://sites.google.com/site/rdpackages/rdpower">rdpower</a></font></b>: power and sample size calculations using robust bias-corrected local polynomial inference.
-</blockquote>
+## Contributors:
 
-<br>
+- [Sebastian Calonico](https://sites.google.com/site/scalonico), Columbia University.
 
-<b>Contributors</b>:
-<blockquote style="margin:5px 0px 0px 40px;border:none;padding:0px">
+- [Matias D. Cattaneo](https://cattaneo.princeton.edu), Princeton University.
 
-<a href="https://sites.google.com/site/scalonico" target="_blank">Sebastian Calonico</a>, Columbia University<br>
+- [Max H. Farrell](https://maxhfarrell.com/), University of Chicago.
 
-<a href="https://cattaneo.princeton.edu" target="_blank">Matias D. Cattaneo</a>, Princeton University<br>
+- [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley and CREATES.
 
-<a href="https://maxhfarrell.com/" target="_blank">Max H. Farrell</a>, University of Chicago<br>
+- [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
 
-<a href="http://www.econ.berkeley.edu/~mjansson/index.html" target="_blank">Michael Jansson</a>, UC Berkeley and CREATES<br>
+- [Rocio Titiunik](https://scholar.princeton.edu/titiunik), Princeton University.
 
-<a href="https://sites.google.com/view/xinweima" target="_blank">Xinwei Ma</a>, UC San Diego<br>
+- [Gonzalo Vazquez-Bare](https://sites.google.com/site/gvazquezbare), UC Santa Barbara.
 
-<a href="https://scholar.princeton.edu/titiunik" target="_blank">Rocio Titiunik</a>, Princeton University<br>
-
-<a href="https://sites.google.com/site/gvazquezbare" target="_blank">Gonzalo Vazquez-Bare</a>, UC Santa Barbara<br>
-</blockquote>
-
-<br>
-<b>Recent reviews and discussions employing these methods and software</b>:
+## Recent reviews and discussions employing these methods and software:
 
 <blockquote style="margin:10px 0px 0px 40px;border:none;padding:0px">
 Cattaneo and Titiunik (2022): Regression Discontinuity Designs.
