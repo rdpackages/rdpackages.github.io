@@ -32,20 +32,11 @@ This work was supported in part by the National Science Foundation through grant
 
 ## Recent reviews and discussions employing these methods and software:
 
-<blockquote style="margin:10px 0px 0px 40px;border:none;padding:0px">
-Cattaneo and Titiunik (2022): Regression Discontinuity Designs.
-<blockquote style="margin:5px 0px 0px 20px;border:none;padding:0px">
-Article requested by <i>Annual Review of Economics</i> (vol. 14), first draft coming soon.<br>
-<a href="https://sites.google.com/site/rdpackages/replication/cit-2019-cup">Replication Files</a></blockquote>
-</blockquote>
+- Cattaneo and Titiunik (2022): Regression Discontinuity Designs.<br> Article requested by <i>Annual Review of Economics</i> (vol. 14), first draft coming soon.<br>[Replication Files](https://github.com/rdpackages/rdrobust).
 
-
-<blockquote style="margin:10px 0px 0px 40px;border:none;padding:0px">
-Cattaneo, Idrobo and Titiunik (2019): <a href="https://cattaneo.princeton.edu/books/Cattaneo-Idrobo-Titiunik_2019_CUP-Vol1.pdf" target="_blank">A Practical Introduction to Regression Discontinuity Designs: Foundations</a>.
-<blockquote style="margin:5px 0px 0px 20px;border:none;padding:0px">
-<i>Cambridge Elements: Quantitative and Computational Methods for Social Science</i>, Cambridge University Press.<br>
-<a href="https://sites.google.com/site/rdpackages/replication/cit-2019-cup">Replication Files</a></blockquote>
-</blockquote>
+- Cattaneo, Idrobo and Titiunik (2019): [A Practical Introduction to Regression Discontinuity Designs: Foundations]().<br>
+_Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.<br>
+[Replication Files](https://github.com/rdpackages/rdrobust).
 
 <blockquote style="margin:10px 0px 0px 40px;border:none;padding:0px">
 Cattaneo, Idrobo and Titiunik (2020): <a href="https://cattaneo.princeton.edu/books/Cattaneo-Idrobo-Titiunik_2018_CUP-Vol2.pdf" target="_blank">A Practical Introduction to Regression Discontinuity Designs: Extensions</a>.
