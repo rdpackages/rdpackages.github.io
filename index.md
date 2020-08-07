@@ -1,4 +1,108 @@
-## Welcome to GitHub Pages
+## RD Designs Software Packages
+
+This work was supported in part by the National Science Foundation through grants&nbsp;<a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561" target="_blank">SES-1357561</a>, <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931" target="_blank">SES-1459931</a>, <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967" target="_blank">SES-1459967</a>, <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662" target="_blank">SES-1947662</a>, <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805" target="_blank">SES-1947805</a>, and <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432" target="_blank">SES-2019432</a>.<br>
+<br>
+
+<b>Software available in R and Stata</b>:<br>
+
+<blockquote style="margin:5px 0px 0px 40px;border:none;padding:0px">
+<b><font face="courier new, monospace"><a href="https://sites.google.com/site/rdpackages/rdrobust">rdrobust</a></font></b>: inference and graphical procedures using local polynomial and partitioning regression methods.
+</blockquote>
+
+<blockquote style="margin:5px 0px 0px 40px;border:none;padding:0px">
+<b><font face="courier new, monospace"><a href="https://sites.google.com/site/rdpackages/rdlocrand">rdlocrand</a></font></b>: finite-sample inference using local randomization methods.
+</blockquote>
+
+<blockquote style="margin:5px 0px 0px 40px;border:none;padding:0px">
+<b><font face="courier new, monospace"><a href="https://sites.google.com/site/rdpackages/rddensity">rddensity</a></font></b>: manipulation testing using local polynomial density methods.
+</blockquote>
+
+<blockquote style="margin:5px 0px 0px 40px;border:none;padding:0px">
+<b><font face="courier new, monospace"><a href="https://sites.google.com/site/rdpackages/rdmulti">rdmulti</a></font></b>: estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
+</blockquote>
+
+<blockquote style="margin:5px 0px 0px 40px;border:none;padding:0px">
+<b><font face="courier new, monospace"><a href="https://sites.google.com/site/rdpackages/rdpower">rdpower</a></font></b>: power and sample size calculations using robust bias-corrected local polynomial inference.
+</blockquote>
+
+<br>
+
+<b>Contributors</b>:
+<blockquote style="margin:5px 0px 0px 40px;border:none;padding:0px">
+
+<a href="https://sites.google.com/site/scalonico" target="_blank">Sebastian Calonico</a>, Columbia University<br>
+
+<a href="https://cattaneo.princeton.edu" target="_blank">Matias D. Cattaneo</a>, Princeton University<br>
+
+<a href="https://maxhfarrell.com/" target="_blank">Max H. Farrell</a>, University of Chicago<br>
+
+<a href="http://www.econ.berkeley.edu/~mjansson/index.html" target="_blank">Michael Jansson</a>, UC Berkeley and CREATES<br>
+
+<a href="https://sites.google.com/view/xinweima" target="_blank">Xinwei Ma</a>, UC San Diego<br>
+
+<a href="https://scholar.princeton.edu/titiunik" target="_blank">Rocio Titiunik</a>, Princeton University<br>
+
+<a href="https://sites.google.com/site/gvazquezbare" target="_blank">Gonzalo Vazquez-Bare</a>, UC Santa Barbara<br>
+</blockquote>
+
+<br>
+<b>Recent reviews and discussions employing these methods and software</b>:
+
+<blockquote style="margin:10px 0px 0px 40px;border:none;padding:0px">
+Cattaneo and Titiunik (2022): Regression Discontinuity Designs.
+<blockquote style="margin:5px 0px 0px 20px;border:none;padding:0px">
+Article requested by <i>Annual Review of Economics</i> (vol. 14), first draft coming soon.<br>
+<a href="https://sites.google.com/site/rdpackages/replication/cit-2019-cup">Replication Files</a></blockquote>
+</blockquote>
+
+
+<blockquote style="margin:10px 0px 0px 40px;border:none;padding:0px">
+Cattaneo, Idrobo and Titiunik (2019): <a href="https://cattaneo.princeton.edu/books/Cattaneo-Idrobo-Titiunik_2019_CUP-Vol1.pdf" target="_blank">A Practical Introduction to Regression Discontinuity Designs: Foundations</a>.
+<blockquote style="margin:5px 0px 0px 20px;border:none;padding:0px">
+<i>Cambridge Elements: Quantitative and Computational Methods for Social Science</i>, Cambridge University Press.<br>
+<a href="https://sites.google.com/site/rdpackages/replication/cit-2019-cup">Replication Files</a></blockquote>
+</blockquote>
+
+<blockquote style="margin:10px 0px 0px 40px;border:none;padding:0px">
+Cattaneo, Idrobo and Titiunik (2020): <a href="https://cattaneo.princeton.edu/books/Cattaneo-Idrobo-Titiunik_2018_CUP-Vol2.pdf" target="_blank">A Practical Introduction to Regression Discontinuity Designs: Extensions</a>.
+<blockquote style="margin:5px 0px 0px 20px;border:none;padding:0px">
+<i>Cambridge Elements: Quantitative and Computational Methods for Social Science</i>, Cambridge University Press.<br>
+<a href="https://sites.google.com/site/rdpackages/replication/cit-2019-cup">Replication Files</a></blockquote>
+</blockquote>
+
+<blockquote style="margin:10px 0px 0px 40px;border:none;padding:0px">
+Cattaneo, Keele and Titiunik (2020): A Guide to Regression Discontinuity Designs in Medical Applications.
+<blockquote style="margin:5px 0px 0px 20px;border:none;padding:0px">
+Coming soon.<br>
+<a href="https://sites.google.com/site/rdpackages/replication/cit-2019-cup">Replication Files</a></blockquote>
+</blockquote>
+
+<blockquote style="margin:10px 0px 0px 40px;border:none;padding:0px">
+Cattaneo, Titiunik and Vazquez-Bare (2020): <a href="https://cattaneo.princeton.edu/papers/Cattaneo-Titiunik-VazquezBare_2020_Sage.pdf" target="_blank">The Regression Discontinuity Design</a>.
+<blockquote style="margin:5px 0px 0px 20px;border:none;padding:0px"><u>
+Handbook of Research Methods in Political Science and International Relations</u>, Sage Publications, Ch. 44, pp. 835-857.<br>
+<a href="https://sites.google.com/site/rdpackages/replication/ctv-2020-sage">Replication Files</a></blockquote>
+</blockquote>
+
+<blockquote style="margin:10px 0px 0px 40px;border:none;padding:0px">
+Cattaneo, Titiunik and Vazquez-Bare (2017): <a href="https://sites.google.com/site/rdpackages/rdlocrand/Cattaneo-Titiunik-VazquezBare_2017_JPAM.pdf?attredirects=0" target="_blank">Comparing Inference Approaches for RD Designs: A Reexamination of the Effect of Head Start on Child Mortality</a>.
+<blockquote style="margin:5px 0px 0px 20px;border:none;padding:0px">
+<i>Journal of Policy Analysis and Management</i> 36(3): 643-681.<br>
+<a href="https://sites.google.com/site/rdpackages/replication/ctv-2017-jpam">Replication Files</a></blockquote>
+</blockquote>
+
+<blockquote style="margin:10px 0px 0px 40px;border:none;padding:0px">
+Cattaneo and Vazquez-Bare (2016): <a href="https://sites.google.com/site/rdpackages/Cattaneo-VazquezBare_2016_ObsStud.pdf?attredirects=0" target="_blank">The Choice of Neighborhood in Regression Discontinuity Designs</a>.
+<blockquote style="margin:5px 0px 0px 20px;border:none;padding:0px">
+<i>Observational Studies</i> 2: 134-146.
+</blockquote>
+</blockquote>
+
+<br>
+<br>
+
+
+
 
 You can use the [editor on GitHub](https://github.com/rdpackages/rdpackages.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
