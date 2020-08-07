@@ -33,7 +33,7 @@ This work was supported in part by the National Science Foundation through grant
 ## Recent reviews and discussions employing these methods and software:
 
 - Cattaneo and Titiunik (2022): Regression Discontinuity Designs.<br>
-Article requested by <i>Annual Review of Economics</i> (vol. 14), first draft coming soon.<br>
+Article requested by <i>Annual Review of Economics</i> (vol. 14), coming soon.<br>
 [Replication Files](https://github.com/rdpackages/replication).
 
 - Cattaneo, Idrobo and Titiunik (2019): [A Practical Introduction to Regression Discontinuity Designs: Foundations]().<br>
