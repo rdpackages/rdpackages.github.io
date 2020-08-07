@@ -30,7 +30,7 @@ This work was supported in part by the National Science Foundation through grant
 
 - [Gonzalo Vazquez-Bare](https://sites.google.com/site/gvazquezbare), UC Santa Barbara.
 
-## Recent reviews and discussions employing these methods and software:
+## Reviews and Introductions:
 
 - Cattaneo and Titiunik (2022): Regression Discontinuity Designs.<br>
 Article requested by <i>Annual Review of Economics</i> (vol. 14), coming soon.<br>
