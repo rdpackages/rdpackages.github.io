@@ -4,7 +4,7 @@ Software packages for analysis and interpretation of regression discontinuity de
 
 This work was supported in part by the National Science Foundation through grants [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561), [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931), [SES-1459967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967), [SES-1947662](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662), [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805), and [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432).
 
-## Software available in R and Stata:
+## Software available in R and Stata
 
 - [rdrobust](https://github.com/rdpackages/rdrobust): inference and graphical procedures using local polynomial and partitioning regression methods.
 - [rdlocrand](https://github.com/rdpackages/rdlocrand): finite-sample inference using local randomization and related methods.
@@ -16,7 +16,7 @@ This work was supported in part by the National Science Foundation through grant
 
 Replication files and illustration code is available in the [replication page]().
 
-## Contributors:
+## Contributors
 
 - [Sebastian Calonico](https://sites.google.com/site/scalonico), Columbia University.
 - [Matias D. Cattaneo](https://cattaneo.princeton.edu), Princeton University.
@@ -26,7 +26,7 @@ Replication files and illustration code is available in the [replication page]()
 - [Rocio Titiunik](https://scholar.princeton.edu/titiunik), Princeton University.
 - [Gonzalo Vazquez-Bare](https://sites.google.com/site/gvazquezbare), UC Santa Barbara.
 
-## Reviews and Introductions:
+## Reviews and Introductions
 
 - Cattaneo and Titiunik (2022): Regression Discontinuity Designs.<br>
 Article requested by <i>Annual Review of Economics</i> (vol. 14), coming soon.<br>
