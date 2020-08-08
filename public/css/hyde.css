@@ -249,11 +249,11 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-/* Github-Blue */
-.theme-base-Github-Blue .sidebar {
-  background-color: #4078c0;
+/* darkblue */
+.theme-base-darkblue .sidebar {
+  background-color: #336699;
 }
-.theme-base-0f .content a,
-.theme-base-0f .related-posts li a:hover {
-  color: #4078c0;
+.theme-base-darkblue .content a,
+.theme-base-darkblue .related-posts li a:hover {
+  color: #336699;
 }
