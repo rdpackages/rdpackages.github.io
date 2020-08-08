@@ -14,7 +14,7 @@ This work was supported in part by the National Science Foundation through grant
 
 ## Replication
 
-Replication files and illustration code is available in the [replication page]().
+Replication files and illustration code are available in the [replication](https://rdpackages.github.io/replication) page.
 
 ## Contributors
 
