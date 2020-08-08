@@ -205,7 +205,7 @@ pre code {
 }
 .gist code {
   padding: 0;
-  color: inherit;
+  color: black;
   background-color: transparent;
   border-radius: 0;
 }
