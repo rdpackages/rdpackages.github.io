@@ -6,11 +6,11 @@ This work was supported in part by the National Science Foundation through grant
 
 ## Software available in R and Stata
 
-- [rdrobust](https://github.com/rdpackages/rdrobust): inference and graphical procedures using local polynomial and partitioning regression methods.
-- [rdlocrand](https://github.com/rdpackages/rdlocrand): finite-sample inference using local randomization and related methods.
-- [rddensity](https://github.com/rdpackages/rddensity): manipulation testing using local polynomial density methods.
-- [rdmulti](https://github.com/rdpackages/rdmulti): estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
-- [rdpower](https://github.com/rdpackages/rdpower): power and sample size calculations using robust bias-corrected local polynomial inference.
+- [rdrobust](https://rdpackages.github.io/rdrobust): inference and graphical procedures using local polynomial and partitioning regression methods.
+- [rdlocrand](https://rdpackages.github.io/rdlocrand): finite-sample inference using local randomization and related methods.
+- [rddensity](https://rdpackages.github.io/rddensity): manipulation testing using local polynomial density methods.
+- [rdmulti](https://rdpackages.github.io/rdmulti): estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
+- [rdpower](https://rdpackages.github.io/rdpower): power and sample size calculations using robust bias-corrected local polynomial inference.
 
 ## Replication
 
@@ -31,16 +31,16 @@ Replication files and illustration code is available in the [replication page]()
 - Cattaneo and Titiunik (2022): Regression Discontinuity Designs.<br>
 Article requested by <i>Annual Review of Economics</i> (vol. 14), coming soon.
 
-- Cattaneo, Idrobo and Titiunik (2019): [A Practical Introduction to Regression Discontinuity Designs: Foundations](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik _2019_CUP).<br>
+- Cattaneo, Idrobo and Titiunik (2019): [A Practical Introduction to Regression Discontinuity Designs: Foundations](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik _2019_CUP.pdf).<br>
 _Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
 
-- Cattaneo, Idrobo and Titiunik (2020): [A Practical Introduction to Regression Discontinuity Designs: Extensions](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik _2019_CUP).<br>
+- Cattaneo, Idrobo and Titiunik (2020): [A Practical Introduction to Regression Discontinuity Designs: Extensions](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik _2019_CUP.pdf).<br>
 _Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
 
-- Cattaneo, Keele and Titiunik (2020): [A Guide to Regression Discontinuity Designs in Medical Applications]().<br>
+- Cattaneo, Keele and Titiunik (2020): A Guide to Regression Discontinuity Designs in Medical Applications.<br>
 Coming soon.
 
-- Cattaneo, Titiunik and Vazquez-Bare (2020): [The Regression Discontinuity Design](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2020_Sage).<br>
+- Cattaneo, Titiunik and Vazquez-Bare (2020): [The Regression Discontinuity Design](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2020_Sage.pdf).<br>
 _Handbook of Research Methods in Political Science and International Relations_, Sage Publications, Ch. 44, pp. 835-857.
 
 - Cattaneo, Titiunik and Vazquez-Bare (2017): [Comparing Inference Approaches for RD Designs: A Reexamination of the Effect of Head Start on Child Mortality](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2017_JPAM.pdf).<br>

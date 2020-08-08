@@ -39,16 +39,16 @@ Replication files and illustration code is available in the [replication page]()
 - Cattaneo and Titiunik (2022): Regression Discontinuity Designs.<br>
 Article requested by <i>Annual Review of Economics</i> (vol. 14), coming soon.
 
-- Cattaneo, Idrobo and Titiunik (2019): [A Practical Introduction to Regression Discontinuity Designs: Foundations](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik _2019_CUP).<br>
+- Cattaneo, Idrobo and Titiunik (2019): [A Practical Introduction to Regression Discontinuity Designs: Foundations](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik _2019_CUP.pdf).<br>
 _Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
 
-- Cattaneo, Idrobo and Titiunik (2020): [A Practical Introduction to Regression Discontinuity Designs: Extensions](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik _2019_CUP).<br>
+- Cattaneo, Idrobo and Titiunik (2020): [A Practical Introduction to Regression Discontinuity Designs: Extensions](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik _2019_CUP.pdf).<br>
 _Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
 
-- Cattaneo, Keele and Titiunik (2020): [A Guide to Regression Discontinuity Designs in Medical Applications]().<br>
+- Cattaneo, Keele and Titiunik (2020): A Guide to Regression Discontinuity Designs in Medical Applications.<br>
 Coming soon.
 
-- Cattaneo, Titiunik and Vazquez-Bare (2020): [The Regression Discontinuity Design](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2020_Sage).<br>
+- Cattaneo, Titiunik and Vazquez-Bare (2020): [The Regression Discontinuity Design](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2020_Sage.pdf).<br>
 _Handbook of Research Methods in Political Science and International Relations_, Sage Publications, Ch. 44, pp. 835-857.
 
 - Cattaneo, Titiunik and Vazquez-Bare (2017): [Comparing Inference Approaches for RD Designs: A Reexamination of the Effect of Head Start on Child Mortality](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2017_JPAM.pdf).<br>

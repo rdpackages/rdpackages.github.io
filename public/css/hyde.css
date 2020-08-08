@@ -249,11 +249,11 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-/* Navy */
-.theme-base-Navy .sidebar {
-  background-color: #000080;
+/* Aero */
+.theme-base-Aero .sidebar {
+  background-color: #7DBBE6;
 }
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
-  color: #000080;
+  color: #7DBBE6;
 }
