@@ -6,23 +6,11 @@ This work was supported in part by the National Science Foundation through grant
 
 ## Software available in R and Stata:
 
-<ul>
-  <li>
-    <a href="https://github.com/rdpackages/rdrobust">rdrobust</a>: inference and graphical procedures using local polynomial and partitioning regression methods.
-  </li>
-  <li>
-    <a href="https://github.com/rdpackages/rdlocrand">rdlocrand</a>: finite-sample inference using local randomization and related methods.
-  </li>
-  <li>
-    <a href="https://github.com/rdpackages/rddensity">rddensity</a>: manipulation testing using local polynomial density methods.
-  </li>
-  <li>
-    <a href="https://github.com/rdpackages/rdmulti">rdmulti</a>: estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
-  </li>
-  <li>
-    <a href="https://github.com/rdpackages/rdpower">rdpower</a>: power and sample size calculations using robust bias-corrected local polynomial inference.
-  </li>
-</ul>
+- [rdrobust](https://github.com/rdpackages/rdrobust): inference and graphical procedures using local polynomial and partitioning regression methods.
+- [rdlocrand](https://github.com/rdpackages/rdlocrand): finite-sample inference using local randomization and related methods.
+- [rddensity](https://github.com/rdpackages/rddensity): manipulation testing using local polynomial density methods.
+- [rdmulti](https://github.com/rdpackages/rdmulti): estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
+- [rdpower](https://github.com/rdpackages/rdpower): power and sample size calculations using robust bias-corrected local polynomial inference.
 
 ## Replication
 
