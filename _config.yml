@@ -1,10 +1,12 @@
 # Setup
-title:            RD Packages
-tagline:          'RD Software packages'
-description:      ''
-url:              https://rdpackages.github.io/
-baseurl:          ''
-paginate:         5
+title       : RD Packages
+tagline     : 'RD Software Packages'
+description : 'Regression Discontinuity Designs Software Packages'
+keywords    : "regression discontinuity designs, program evaluation, causal inference, treatment effects, R, Stata"
+url         : https://rdpackages.github.io
+baseurl     : ''
+paginate    : 5
+
 
 # About and contact
 author:
