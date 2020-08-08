@@ -1,0 +1,24 @@
+v 0.05
+d STATA Package: RDPOWER
+d 
+d Authors: Matias D. Cattaneo, Department of Operations Research and Financial Engineering, Princeton University, cattaneo@princeton.edu
+d          Rocio Titiunik, Department of Politics, Princeton University, titiunik@princeton.edu
+d          Gonzalo Vazquez-Bare, Department of Economics, UC Santa Barbara, gvazquez@econ.ucsb.edu
+d
+d Date: 03-Apr-2020
+d 
+f rdpow.ado
+f rdpow.sthlp
+f rdpower.ado
+f rdpower.sthlp
+f rdsampsi.ado
+f rdsampsi.sthlp
+f rdpower_powerfun.mo
+f rdpower_powerfun_dot.mo
+f rdpower_powerNR.mo
+f rdpower_functions.do
+f rdpower_illustration.do
+f rdpower_senate.dta
+
+
+
