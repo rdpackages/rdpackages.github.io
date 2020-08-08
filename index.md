@@ -16,6 +16,10 @@ This work was supported in part by the National Science Foundation through grant
 
 - [rdpower](https://github.com/rdpackages/rdpower): power and sample size calculations using robust bias-corrected local polynomial inference.
 
+## Replication
+
+Replication files and illustration code is available in the [replication page]().
+
 ## Contributors:
 
 - [Sebastian Calonico](https://sites.google.com/site/scalonico), Columbia University.
@@ -31,10 +35,6 @@ This work was supported in part by the National Science Foundation through grant
 - [Rocio Titiunik](https://scholar.princeton.edu/titiunik), Princeton University.
 
 - [Gonzalo Vazquez-Bare](https://sites.google.com/site/gvazquezbare), UC Santa Barbara.
-
-## Replication
-
-Replication files and illustration code is available in the [replication page]().
 
 ## Reviews and Introductions:
 
