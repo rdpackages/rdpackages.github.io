@@ -32,6 +32,10 @@ This work was supported in part by the National Science Foundation through grant
 
 - [Gonzalo Vazquez-Bare](https://sites.google.com/site/gvazquezbare), UC Santa Barbara.
 
+## Replication
+
+Replication files and illustration code is available in the [replication page]().
+
 ## Reviews and Introductions:
 
 - Cattaneo and Titiunik (2022): Regression Discontinuity Designs.<br>
