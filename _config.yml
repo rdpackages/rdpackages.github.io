@@ -1,15 +1,15 @@
 # Setup
-title:            Hyde
+title:            RD Packages
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://hyde.getpoole.com
+description:      ''
+url:              https://rdpackages.github.io/
 baseurl:          ''
 paginate:         5
 
 # About and contact
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           
+  url:            
 
 # Gems
 plugins:
