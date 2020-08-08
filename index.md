@@ -8,7 +8,7 @@ This work was supported in part by the National Science Foundation through grant
 
 - [rdrobust](https://github.com/rdpackages/rdrobust): inference and graphical procedures using local polynomial and partitioning regression methods.
 
-- [rdlocrand](https://github.com/rdpackages/rdlocrand): finite-sample inference for RD designs using local randomization and related methods.
+- [rdlocrand](https://github.com/rdpackages/rdlocrand): finite-sample inference using local randomization and related methods.
 
 - [rddensity](https://github.com/rdpackages/rddensity): manipulation testing using local polynomial density methods.
 
