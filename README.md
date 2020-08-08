@@ -37,27 +37,22 @@ Replication files and illustration code is available in the [replication page]()
 ## Reviews and Introductions
 
 - Cattaneo and Titiunik (2022): Regression Discontinuity Designs.<br>
-Article requested by <i>Annual Review of Economics</i> (vol. 14), coming soon.<br>
-[Replication Files](https://github.com/rdpackages/replication).
+Article requested by <i>Annual Review of Economics</i> (vol. 14), coming soon.
 
-- Cattaneo, Idrobo and Titiunik (2019): [A Practical Introduction to Regression Discontinuity Designs: Foundations]().<br>
-_Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.<br>
-[Replication Files](https://github.com/rdpackages/replication).
+- Cattaneo, Idrobo and Titiunik (2019): [A Practical Introduction to Regression Discontinuity Designs: Foundations](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik _2019_CUP).<br>
+_Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
 
-- Cattaneo, Idrobo and Titiunik (2020): [A Practical Introduction to Regression Discontinuity Designs: Extensions](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2018_CUP-Vol2.pdf).<br>
-_Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.<br>
-[Replication Files](https://github.com/rdpackages/replication).
+- Cattaneo, Idrobo and Titiunik (2020): [A Practical Introduction to Regression Discontinuity Designs: Extensions](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik _2019_CUP).<br>
+_Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
 
 - Cattaneo, Keele and Titiunik (2020): [A Guide to Regression Discontinuity Designs in Medical Applications]().<br>
-[Replication Files](https://github.com/rdpackages/replication).
+Coming soon.
 
-- Cattaneo, Titiunik and Vazquez-Bare (2020): [The Regression Discontinuity Design]().<br>
-_Handbook of Research Methods in Political Science and International Relations_, Sage Publications, Ch. 44, pp. 835-857.<br>
-[Replication Files](https://github.com/rdpackages/replication).
+- Cattaneo, Titiunik and Vazquez-Bare (2020): [The Regression Discontinuity Design](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2020_Sage).<br>
+_Handbook of Research Methods in Political Science and International Relations_, Sage Publications, Ch. 44, pp. 835-857.
 
 - Cattaneo, Titiunik and Vazquez-Bare (2017): [Comparing Inference Approaches for RD Designs: A Reexamination of the Effect of Head Start on Child Mortality](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2017_JPAM.pdf).<br>
-_Journal of Policy Analysis and Management_ 36(3): 643-681.<br>
-[Replication Files](https://github.com/rdpackages/replication).
+_Journal of Policy Analysis and Management_ 36(3): 643-681.
 
 - Cattaneo and Vazquez-Bare (2016): [The Choice of Neighborhood in Regression Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-VazquezBare_2016_ObsStud.pdf).<br>
 _Observational Studies_ 2: 134-146.
