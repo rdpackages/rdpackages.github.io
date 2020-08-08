@@ -46,7 +46,7 @@ Article requested by <i>Annual Review of Economics</i> (vol. 14), coming soon.<b
 _Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.<br>
 [Replication Files](https://github.com/rdpackages/replication).
 
-- Cattaneo, Idrobo and Titiunik (2020): [A Practical Introduction to Regression Discontinuity Designs: Extensions](references/Cattaneo-Idrobo-Titiunik_2018_CUP-Vol2.pdf).<br>
+- Cattaneo, Idrobo and Titiunik (2020): [A Practical Introduction to Regression Discontinuity Designs: Extensions](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2018_CUP-Vol2.pdf).<br>
 _Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.<br>
 [Replication Files](https://github.com/rdpackages/replication).
 
@@ -57,11 +57,11 @@ _Cambridge Elements: Quantitative and Computational Methods for Social Science_,
 _Handbook of Research Methods in Political Science and International Relations_, Sage Publications, Ch. 44, pp. 835-857.<br>
 [Replication Files](https://github.com/rdpackages/replication).
 
-- Cattaneo, Titiunik and Vazquez-Bare (2017): [Comparing Inference Approaches for RD Designs: A Reexamination of the Effect of Head Start on Child Mortality](references/Cattaneo-Titiunik-VazquezBare_2017_JPAM.pdf).<br>
+- Cattaneo, Titiunik and Vazquez-Bare (2017): [Comparing Inference Approaches for RD Designs: A Reexamination of the Effect of Head Start on Child Mortality](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2017_JPAM.pdf).<br>
 _Journal of Policy Analysis and Management_ 36(3): 643-681.<br>
 [Replication Files](https://github.com/rdpackages/replication).
 
-- Cattaneo and Vazquez-Bare (2016): [The Choice of Neighborhood in Regression Discontinuity Designs](references/Cattaneo-VazquezBare_2016_ObsStud.pdf).<br>
+- Cattaneo and Vazquez-Bare (2016): [The Choice of Neighborhood in Regression Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-VazquezBare_2016_ObsStud.pdf).<br>
 _Observational Studies_ 2: 134-146.
 
 <br>
