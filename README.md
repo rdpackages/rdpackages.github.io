@@ -15,13 +15,9 @@ This work was supported in part by the National Science Foundation through grant
 ## Software available in R and Stata:
 
 - [rdrobust](https://github.com/rdpackages/rdrobust): inference and graphical procedures using local polynomial and partitioning regression methods.
-
 - [rdlocrand](https://github.com/rdpackages/rdlocrand): finite-sample inference using local randomization and related methods.
-
 - [rddensity](https://github.com/rdpackages/rddensity): manipulation testing using local polynomial density methods.
-
 - [rdmulti](https://github.com/rdpackages/rdmulti): estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
-
 - [rdpower](https://github.com/rdpackages/rdpower): power and sample size calculations using robust bias-corrected local polynomial inference.
 
 ## Replication
@@ -31,17 +27,11 @@ Replication files and illustration code is available in the [replication page]()
 ## Contributors:
 
 - [Sebastian Calonico](https://sites.google.com/site/scalonico), Columbia University.
-
 - [Matias D. Cattaneo](https://cattaneo.princeton.edu), Princeton University.
-
 - [Max H. Farrell](https://maxhfarrell.com/), University of Chicago.
-
-- [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley and CREATES.
-
+- [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley.
 - [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
-
 - [Rocio Titiunik](https://scholar.princeton.edu/titiunik), Princeton University.
-
 - [Gonzalo Vazquez-Bare](https://sites.google.com/site/gvazquezbare), UC Santa Barbara.
 
 ## Reviews and Introductions:
