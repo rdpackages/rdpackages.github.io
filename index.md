@@ -31,17 +31,11 @@ Replication files and illustration code is available in the [replication page]()
 ## Contributors:
 
 - [Sebastian Calonico](https://sites.google.com/site/scalonico), Columbia University.
-
 - [Matias D. Cattaneo](https://cattaneo.princeton.edu), Princeton University.
-
 - [Max H. Farrell](https://maxhfarrell.com/), University of Chicago.
-
 - [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley and CREATES.
-
 - [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
-
 - [Rocio Titiunik](https://scholar.princeton.edu/titiunik), Princeton University.
-
 - [Gonzalo Vazquez-Bare](https://sites.google.com/site/gvazquezbare), UC Santa Barbara.
 
 ## Reviews and Introductions:
