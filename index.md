@@ -53,7 +53,7 @@ _Cambridge Elements: Quantitative and Computational Methods for Social Science_,
 - Cattaneo, Keele and Titiunik (2020): [A Guide to Regression Discontinuity Designs in Medical Applications]().<br>
 [Replication Files](https://github.com/rdpackages/replication).
 
-- Cattaneo, Titiunik and Vazquez-Bare (2020): [The Regression Discontinuity Design]().
+- Cattaneo, Titiunik and Vazquez-Bare (2020): [The Regression Discontinuity Design]().<br>
 _Handbook of Research Methods in Political Science and International Relations_, Sage Publications, Ch. 44, pp. 835-857.<br>
 [Replication Files](https://github.com/rdpackages/replication).
 
@@ -61,7 +61,7 @@ _Handbook of Research Methods in Political Science and International Relations_,
 _Journal of Policy Analysis and Management_ 36(3): 643-681.<br>
 [Replication Files](https://github.com/rdpackages/replication).
 
-- Cattaneo and Vazquez-Bare (2016): [The Choice of Neighborhood in Regression Discontinuity Designs](references/Cattaneo-VazquezBare_2016_ObsStud.pdf" target="_blank">).
+- Cattaneo and Vazquez-Bare (2016): [The Choice of Neighborhood in Regression Discontinuity Designs](references/Cattaneo-VazquezBare_2016_ObsStud.pdf).<br>
 _Observational Studies_ 2: 134-146.
 
 <br>
