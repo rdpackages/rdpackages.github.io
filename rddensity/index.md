@@ -6,7 +6,7 @@ This work was supported in part by the National Science Foundation through grant
 
 ## Website
 
-https://rdpackages.github.io
+https://rdpackages.github.io/rddensity
 
 ## Major Upgrades
 
