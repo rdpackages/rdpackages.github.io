@@ -4,10 +4,6 @@ The `rddensity` package provides Stata and R implementations of manipulation tes
 
 This work was supported in part by the National Science Foundation through grants [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561), [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931), [SES-1459967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967), [SES-1947662](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662), [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805), and [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432).
 
-## Website
-
-https://rdpackages.github.io/rddensity
-
 ## Major Upgrades
 
 This package was first released in Spring 2017, and had one major upgrade in Summer 2020.
@@ -41,14 +37,20 @@ For overviews and introductions, see [rdpackages website](https://rdpackages.git
 
 ### Software and Implementation
 
-- Cattaneo, Jansson and Ma (2018): [Manipulation Testing based on Density Discontinuity](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2018_Stata.pdf), _Stata Journal_ 18(1): 234-261.
+- Cattaneo, Jansson and Ma (2018): [Manipulation Testing based on Density Discontinuity](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2018_Stata.pdf).<br>
+_Stata Journal_ 18(1): 234-261.
 
-- Cattaneo, Jansson and Ma (2020): [lpdensity: Local Polynomial Density Estimation and Inference.](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JSS.pdf), working paper.
+- Cattaneo, Jansson and Ma (2020): [lpdensity: Local Polynomial Density Estimation and Inference](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JSS.pdf).<br>
+Working paper.
 
 ### Technical and Methodological
 
-- Cattaneo, Jansson and Ma (2020): [Simple Local Polynomial Density Estimators](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JASA.pdf), _Journal of the American Statistical Association_, forthcoming. [Supplemental appendix](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JASA--Supplement.pdf).
+- Cattaneo, Jansson and Ma (2020): [Simple Local Polynomial Density Estimators](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JASA.pdf).<br>
+_Journal of the American Statistical Association_, forthcoming.<br>
+[Supplemental appendix](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JASA--Supplement.pdf).
 
-- Cattaneo, Jansson and Ma (2020): [Local Regression Distribution Estimators](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JoE.pdf), working paper. [Supplemental appendix](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JoE--Supplement.pdf).
+- Cattaneo, Jansson and Ma (2020): [Local Regression Distribution Estimators](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JoE.pdf).<br>
+Working paper.<br>
+[Supplemental appendix](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JoE--Supplement.pdf).
 
 <br><br>
