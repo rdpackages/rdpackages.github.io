@@ -11,9 +11,9 @@ To install/update in Stata type:
 net install rdlocrand, from(https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata) replace
 ```
 
-- Help: [rdrandinf](stata/rdrandinf.pdf), [rdwinselect](stata/rdwinselect.pdf), [rdsensitivity](stata/rdsensitivity.pdf), [rdrbounds](stata/rdrbounds.pdf).
+- Help: [rdrandinf](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdrandinf.pdf), [rdwinselect](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdwinselect.pdf), [rdsensitivity](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdsensitivity.pdf), [rdrbounds](stata/rdrbounds.pdf).
 
-- Replication: [do-file](stata/rdlocrand_illustration.do), [senate data](stata/rdlocrand_senate.dta).
+- Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdlocrand_illustration.do), [senate data](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdlocrand_senate.dta).
 
 ## R Implementation
 
@@ -24,7 +24,7 @@ install.packages('rdlocrand')
 
 - Help: [R Manual](https://cran.r-project.org/web/packages/rdlocrand/rdlocrand.pdf), [CRAN repository](https://cran.r-project.org/package=rdlocrand).
 
-- Replication: [R-script](R/rdlocrand_illustration.R), [senate data](R/rdlocrand_senate.csv). [R illustration](R/rdlocrand_illustration.pdf).
+- Replication: [R-script](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/rdlocrand_illustration.R), [senate data](R/rdlocrand_senate.csv). [R illustration](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/rdlocrand_illustration.pdf).
 
 ## References
 
