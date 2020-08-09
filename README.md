@@ -18,7 +18,7 @@ https://rdpackages.github.io
 
 ## Replication
 
-Replication files and illustration code are available in the [replication](https://github.com/rdpackages/replication) repository.
+Replication files and illustration code are available in the [replication](https://github.com/rdpackages-replication) repository.
 
 ## Contributors
 
