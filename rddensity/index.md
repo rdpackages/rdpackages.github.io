@@ -1,6 +1,6 @@
 # RDDENSITY
 
-The `rddensity` package provides Stata and R implementations of manipulation tests employing local polynomial density estimation methods. This method is useful for falsification of Regression Discontinuity Designs, as well as for testing for self-selection or sorting in other contexts. This implementation provides hypothesis tests and bandwidth selectors for manipulation testing. 
+The [`rddensity`](https://rdpackages.github.io/rddensity/) package provides Stata and R implementations of manipulation tests employing local polynomial density estimation methods. This method is useful for falsification of Regression Discontinuity Designs, as well as for testing for self-selection or sorting in other contexts. This implementation provides hypothesis tests and bandwidth selectors for manipulation testing. 
 
 This work was supported in part by the National Science Foundation through grants [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561), [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931), [SES-1459967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967), [SES-1947662](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662), [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805), and [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432).
 
@@ -8,7 +8,7 @@ This work was supported in part by the National Science Foundation through grant
 
 This package was first released in Spring 2017, and had one major upgrade in Summer 2020.
 
-- _Summer 2020 new features include_: (i) speed improvements; (ii) improved integration with lpdensity; (iii) mass points in running variable adjustments; (iv) bandwidth selection adjustments for too few mass points in and/or overshooting of the support of the running variable; (v) density discontinuity plots with histogram and/or confidence bands; and (vi) binomial testing near cutoff as complementary discontinuity testing following results in rdlocrand methods (see references there for details).
+- _Summer 2020 new features include_: (i) speed improvements; (ii) improved integration with [`lpdensity`](https://nppackages.github.io/lpdensity/); (iii) mass points in running variable adjustments; (iv) bandwidth selection adjustments for too few mass points in and/or overshooting of the support of the running variable; (v) density discontinuity plots with histogram and/or confidence bands; and (vi) binomial testing near cutoff as complementary discontinuity testing following results in [`rdlocrand`](https://rdpackages.github.io/rdlocrand/) methods (see references there for details).
 
 ## Stata Implementation
 
@@ -17,8 +17,8 @@ To install/update in Stata type:
 net install rddensity, from(https://raw.githubusercontent.com/rdpackages/rddensity/master/stata) replace
 ```
 
-- Help: [rddensity](stata/rddensity.pdf), [rdbwdensity](stata/rdbwdensity.pdf).
-- Replication: [do-file](stata/rddensity_illustration.do), [do-file plot](stata/rddensity_plot_illustration.do), [data-senate](stata/rddensity_senate.dta).
+- Help: [rddensity](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity.pdf), [rdbwdensity](https://github.com/rdpackages/rddensity/raw/master/stata/rdbwdensity.pdf).
+- Replication: [do-file](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity_illustration.do), [do-file plot](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity_plot_illustration.do), [data-senate](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity_senate.dta).
 
 ## R Implementation
 
@@ -29,7 +29,7 @@ install.packages('rddensity')
 
 - Help: [R Manual](https://cran.r-project.org/web/packages/rddensity/rddensity.pdf), [CRAN repository](https://cran.r-project.org/package=rddensity).
 
-- Replication: [R-script](R/rddensity_illustration.R), [rdplot illustration](R/rddensity_plot_illustration.R), [senate data](R/rddensity_senate.csv).
+- Replication: [R-script](https://github.com/rdpackages/rddensity/raw/master/R/rddensity_illustration.R), [rdplot illustration](https://github.com/rdpackages/rddensity/raw/master/R/rddensity_plot_illustration.R), [senate data](https://github.com/rdpackages/rddensity/raw/master/R/rddensity_senate.csv).
 
 ## References
 
