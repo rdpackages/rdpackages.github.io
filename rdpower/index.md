@@ -11,9 +11,9 @@ To install/update in Stata type:
 net install rdpower, from(https://raw.githubusercontent.com/rdpackages/rdpower/master/stata) replace
 ```
 
-- Help: [rdpower](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdpower.pdf), [rdsampsi](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdsampsi.pdf).
+- Help: [rdpower](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdpower.pdf), [rdsampsi](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdsampsi.pdf).
 
-- Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdpower_illustration.do), [data-senate](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdpower_senate.dta).
+- Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdpower_illustration.do), [data-senate](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdpower_senate.dta).
 
 ## R Implementation
 
@@ -23,7 +23,7 @@ install.packages('rdpower')
 ```
 - Help: [R Manual](https://cran.r-project.org/web/packages/rdpower/rdpower.pdf), [CRAN repository](https://cran.r-project.org/package=rdpower).
 
-- Replication files: [R-script](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/rdpower_illustration.R), [data-senate](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/rdpower_senate.csv).
+- Replication files: [R-script](https://raw.githubusercontent.com/rdpackages/rdpower/master/R/rdpower_illustration.R), [data-senate](https://raw.githubusercontent.com/rdpackages/rdpower/master/R/rdpower_senate.csv).
 
 ## References
 

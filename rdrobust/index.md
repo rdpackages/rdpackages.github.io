@@ -19,9 +19,9 @@ To install/update in Stata type:
 net install rdrobust, from(https://raw.githubusercontent.com/rdpackages/rdrobust/master/stata) replace
 ```
 
-- Help: [rdrobust](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdrobust.pdf), [rdbwselect](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdbwselect.pdf), [rdplot](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdplot.pdf).
+- Help: [rdrobust](https://raw.githubusercontent.com/rdpackages/rdrobust/master/stata/rdrobust.pdf), [rdbwselect](https://raw.githubusercontent.com/rdpackages/rdrobust/master/stata/rdbwselect.pdf), [rdplot](https://raw.githubusercontent.com/rdpackages/rdrobust/master/stata/rdplot.pdf).
 
-- Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdrobust_illustration.do), [rdplot illustration](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdplot_illustration.do), [senate data](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdrobust_senate.dta).
+- Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdrobust/master/stata/rdrobust_illustration.do), [rdplot illustration](https://raw.githubusercontent.com/rdpackages/rdrobust/master/stata/rdplot_illustration.do), [senate data](https://raw.githubusercontent.com/rdpackages/rdrobust/master/stata/rdrobust_senate.dta).
 
 ## R Implementation
 
@@ -32,7 +32,7 @@ install.packages('rdrobust')
 
 - Help: [R Manual](https://cran.r-project.org/web/packages/rdrobust/rdrobust.pdf), [CRAN repository](https://cran.r-project.org/package=rdrobust).
 
-- Replication: [R-script](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/rdrobust_illustration.r), [rdplot illustration](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/rdplot_illustration.R), [senate data](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/rdrobust_senate.csv).
+- Replication: [R-script](https://raw.githubusercontent.com/rdpackages/rdrobust/master/R/rdrobust_illustration.r), [rdplot illustration](https://raw.githubusercontent.com/rdpackages/rdrobust/master/R/rdplot_illustration.R), [senate data](https://raw.githubusercontent.com/rdpackages/rdrobust/master/R/rdrobust_senate.csv).
 
 ## References
 

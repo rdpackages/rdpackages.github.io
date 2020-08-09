@@ -11,9 +11,9 @@ To install/update in Stata type:
 net install rdmulti, from(https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata) replace
 ```
 
-- Help: [rdmc](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdmc.pdf), [rdmcplot](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdmcplot.pdf), [rdms](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdms.pdf).
+- Help: [rdmc](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/rdmc.pdf), [rdmcplot](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/rdmcplot.pdf), [rdms](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/rdms.pdf).
 
-- Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdmulti_illustration.do), [rdmcplot illustration](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdmcplot_illustration.do), [dataset1](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/simdata_multic.dta), [dataset2](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/simdata_cumul.dta), [dataset3](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/simdata_multis.dta).
+- Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/rdmulti_illustration.do), [rdmcplot illustration](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/rdmcplot_illustration.do), [dataset1](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/simdata_multic.dta), [dataset2](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/simdata_cumul.dta), [dataset3](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/simdata_multis.dta).
 
 ## R Implementation
 
@@ -24,7 +24,7 @@ install.packages('rdmulti')
 
 - Help: [R Manual](https://cran.r-project.org/web/packages/rdmulti/rdmulti.pdf), [CRAN repository](https://cran.r-project.org/package=rdmulti).
 
-- Replication: [R-script](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/rdmulti_illustration.R), [rdmcplot illustration](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/rdmcplot_illustration.R), [dataset1](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/simdata_multic.csv), [dataset2](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/simdata_cumul.csv), [dataset3](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/simdata_multis.csv), [R illustration](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/rdmulti_illustration.pdf)
+- Replication: [R-script](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/rdmulti_illustration.R), [rdmcplot illustration](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/rdmcplot_illustration.R), [dataset1](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/simdata_multic.csv), [dataset2](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/simdata_cumul.csv), [dataset3](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/simdata_multis.csv), [R illustration](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/rdmulti_illustration.pdf)
 
 ## References
 

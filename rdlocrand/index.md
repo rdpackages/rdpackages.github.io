@@ -11,7 +11,7 @@ To install/update in Stata type:
 net install rdlocrand, from(https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata) replace
 ```
 
-- Help: [rdrandinf](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdrandinf.pdf), [rdwinselect](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdwinselect.pdf), [rdsensitivity](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdsensitivity.pdf), [rdrbounds](stata/rdrbounds.pdf).
+- Help: [rdrandinf](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdrandinf.pdf), [rdwinselect](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdwinselect.pdf), [rdsensitivity](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdsensitivity.pdf), [rdrbounds](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdrbounds.pdf).
 
 - Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdlocrand_illustration.do), [senate data](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdlocrand_senate.dta).
 
