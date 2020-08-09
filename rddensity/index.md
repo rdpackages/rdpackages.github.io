@@ -18,6 +18,7 @@ net install rddensity, from(https://raw.githubusercontent.com/rdpackages/rddensi
 ```
 
 - Help: [rddensity](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity.pdf), [rdbwdensity](https://github.com/rdpackages/rddensity/raw/master/stata/rdbwdensity.pdf).
+
 - Replication: [do-file](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity_illustration.do), [do-file plot](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity_plot_illustration.do), [data-senate](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity_senate.dta).
 
 ## R Implementation
