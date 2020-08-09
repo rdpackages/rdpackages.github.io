@@ -6,7 +6,7 @@ This work was supported in part by the National Science Foundation through grant
 
 ## Website
 
-https://rdpackages.github.io/rddensity
+https://rdpackages.github.io
 
 ## Software available in R and Stata
 
