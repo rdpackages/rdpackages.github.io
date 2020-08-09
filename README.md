@@ -33,10 +33,10 @@ Replication files and illustration code are available in the [replication](https
 - Cattaneo and Titiunik (2022): Regression Discontinuity Designs.<br>
 Article requested by <i>Annual Review of Economics</i> (vol. 14), coming soon.
 
-- Cattaneo, Idrobo and Titiunik (2019): [A Practical Introduction to Regression Discontinuity Designs: Foundations](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik _2019_CUP.pdf).<br>
+- Cattaneo, Idrobo and Titiunik (2019): [A Practical Introduction to Regression Discontinuity Designs: Foundations](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2019_CUP.pdf).<br>
 _Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
 
-- Cattaneo, Idrobo and Titiunik (2020): [A Practical Introduction to Regression Discontinuity Designs: Extensions](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik _2019_CUP.pdf).<br>
+- Cattaneo, Idrobo and Titiunik (2020): [A Practical Introduction to Regression Discontinuity Designs: Extensions](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2019_CUP.pdf).<br>
 _Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
 
 - Cattaneo, Keele and Titiunik (2020): A Guide to Regression Discontinuity Designs in Medical Applications.<br>
