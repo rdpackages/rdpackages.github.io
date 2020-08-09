@@ -4,6 +4,10 @@ The ``rdpower`` package provides Stata and R implementations of power and sample
 
 This work was supported by the National Science Foundation through grant [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561).
 
+## Website
+
+https://rdpackages.github.io/rdpower
+
 ## Stata Implementation
 
 To install/update in Stata type:
