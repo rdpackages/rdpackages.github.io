@@ -53,5 +53,4 @@ _Journal of Policy Analysis and Management_ 36(3): 643-681.
 - Cattaneo and Vazquez-Bare (2016): [The Choice of Neighborhood in Regression Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-VazquezBare_2016_ObsStud.pdf).<br>
 _Observational Studies_ 2: 134-146.
 
-<br>
-<br>
+<br><br>
