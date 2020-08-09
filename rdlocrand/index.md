@@ -4,6 +4,9 @@ The `rdlocrand` package provides Stata and R implementations of statistical infe
 
 This work was supported in part by the National Science Foundation through grants [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561).
 
+## Website
+
+https://rdpackages.github.io/rdlocrand
 
 ## Stata Implementation
 
