@@ -4,6 +4,10 @@ The `rdmulti` package provides Stata and R implementation of RD plots, estimatio
 
 This work was supported in part by the National Science Foundation through grants [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561).
 
+## Website
+
+https://rdpackages.github.io/rdmulti
+
 ## Stata Implementation
 
 To install/update in Stata type:
