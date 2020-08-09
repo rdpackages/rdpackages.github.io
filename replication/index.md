@@ -6,7 +6,7 @@ This work was supported in part by the National Science Foundation through grant
 
 ## Overviews and Practical Introductions
 
-- Cattaneo, Idrobo and Titiunik (2019, 2020): [A Practical Introduction to Regression Discontinuity Designs](/replication/CIT_2019_CUP). _Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
+- Cattaneo, Idrobo and Titiunik (2019, 2020): [A Practical Introduction to Regression Discontinuity Designs](https://github.com/rdpackages/replication/CIT_2019_CUP). _Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
 
 - Cattaneo, Keele and Titiunik (2020): [A Guide to Regression Discontinuity Designs in Medical Applications](). Coming soon.
 
