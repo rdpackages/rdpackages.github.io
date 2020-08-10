@@ -250,12 +250,12 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-/* darkgreen */
-.theme-base-darkgreen .sidebar {
-  background-color: #336633;
+/* darkblue */
+.theme-base-darkblue .sidebar {
+  background-color: #336699;
 }
-.theme-base-darkgreen .content a,
-.theme-base-darkgreen .related-posts li a:hover {
-  color: #336633;
+.theme-base-darkblue .content a,
+.theme-base-darkblue .related-posts li a:hover {
+  color: #336699;
 }
 
