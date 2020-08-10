@@ -80,7 +80,7 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 
 /* Sidebar nav */
@@ -90,6 +90,7 @@ html {
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
+  font-size: 1.5rem;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -249,11 +250,12 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-/* darkblue */
-.theme-base-darkblue .sidebar {
-  background-color: #336699;
+/* darkgreen */
+.theme-base-darkgreen .sidebar {
+  background-color: #336633;
 }
-.theme-base-darkblue .content a,
-.theme-base-darkblue .related-posts li a:hover {
-  color: #336699;
+.theme-base-darkgreen .content a,
+.theme-base-darkgreen .related-posts li a:hover {
+  color: #336633;
 }
+
