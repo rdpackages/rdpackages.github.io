@@ -78,9 +78,9 @@ html {
 /* About section */
 .sidebar-about h1 {
   color: #fff;
-  margin-top: 0;
+  margin-top: 10px;
   font-family: "Abril Fatface", serif;
-  font-size: 2.5rem;
+  font-size: 2.3rem;
 }
 
 /* Sidebar nav */
@@ -90,7 +90,7 @@ html {
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
