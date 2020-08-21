@@ -32,6 +32,10 @@ install.packages('rddensity')
 
 - Replication: [R-script](https://github.com/rdpackages/rddensity/raw/master/R/rddensity_illustration.R), [rdplot illustration](https://github.com/rdpackages/rddensity/raw/master/R/rddensity_plot_illustration.R), [senate data](https://github.com/rdpackages/rddensity/raw/master/R/rddensity_senate.csv).
 
+## Repository
+
+For source code and related files, visit [https://github.com/rdpackages/rddensity/](https://github.com/rdpackages/rddensity/).
+
 ## References
 
 For overviews and introductions, see [rdpackages website](https://rdpackages.github.io).
