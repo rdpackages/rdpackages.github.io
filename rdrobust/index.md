@@ -34,6 +34,10 @@ install.packages('rdrobust')
 
 - Replication: [R-script](https://raw.githubusercontent.com/rdpackages/rdrobust/master/R/rdrobust_illustration.r), [rdplot illustration](https://raw.githubusercontent.com/rdpackages/rdrobust/master/R/rdplot_illustration.R), [senate data](https://raw.githubusercontent.com/rdpackages/rdrobust/master/R/rdrobust_senate.csv).
 
+## Repository
+
+For source code and related files, visit [`rdrobust` repository](https://github.com/rdpackages/rdrobust/).
+
 ## References
 
 For overviews and introductions, see [rdpackages website](https://rdpackages.github.io).

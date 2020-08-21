@@ -26,6 +26,10 @@ install.packages('rdlocrand')
 
 - Replication: [R-script](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/rdlocrand_illustration.R), [senate data](R/rdlocrand_senate.csv). [R illustration](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/rdlocrand_illustration.pdf).
 
+## Repository
+
+For source code and related files, visit [`rdlocrand` repository](https://github.com/rdpackages/rdlocrand/).
+
 ## References
 
 For overviews and introductions, see [rdpackages website](https://rdpackages.github.io).

@@ -1,6 +1,6 @@
 # RDPOWER
 
-The ``rdpower`` package provides Stata and R implementations of power and sample size calculations using robust bias-corrected local polynomial inference methods.
+The `rdpower` package provides Stata and R implementations of power and sample size calculations using robust bias-corrected local polynomial inference methods.
 
 This work was supported by the National Science Foundation through grant [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561).
 
@@ -24,6 +24,10 @@ install.packages('rdpower')
 - Help: [R Manual](https://cran.r-project.org/web/packages/rdpower/rdpower.pdf), [CRAN repository](https://cran.r-project.org/package=rdpower).
 
 - Replication files: [R-script](https://raw.githubusercontent.com/rdpackages/rdpower/master/R/rdpower_illustration.R), [data-senate](https://raw.githubusercontent.com/rdpackages/rdpower/master/R/rdpower_senate.csv).
+
+## Repository
+
+For source code and related files, visit [`rdpower` repository](https://github.com/rdpackages/rdpower/).
 
 ## References
 

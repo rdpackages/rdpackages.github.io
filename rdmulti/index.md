@@ -26,6 +26,10 @@ install.packages('rdmulti')
 
 - Replication: [R-script](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/rdmulti_illustration.R), [rdmcplot illustration](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/rdmcplot_illustration.R), [dataset1](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/simdata_multic.csv), [dataset2](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/simdata_cumul.csv), [dataset3](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/simdata_multis.csv), [R illustration](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/rdmulti_illustration.pdf)
 
+## Repository
+
+For source code and related files, visit [`rdmulti` repository](https://github.com/rdpackages/rdmulti/).
+
 ## References
 
 For overviews and introductions, see [rdpackages website](https://rdpackages.github.io).
