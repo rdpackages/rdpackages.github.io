@@ -36,6 +36,7 @@ install.packages('rddensity')
 
 For source code and related files, visit [`rddensity` repository](https://github.com/rdpackages/rddensity/).
 
+
 ## References
 
 For overviews and introductions, see [rdpackages website](https://rdpackages.github.io).

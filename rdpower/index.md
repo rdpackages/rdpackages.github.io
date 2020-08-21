@@ -29,6 +29,7 @@ install.packages('rdpower')
 
 For source code and related files, visit [`rdpower` repository](https://github.com/rdpackages/rdpower/).
 
+
 ## References
 
 For overviews and introductions, see [rdpackages website](https://rdpackages.github.io).
