@@ -15,8 +15,7 @@ Coming soon.
 - Cattaneo, Titiunik and Vazquez-Bare (2020): [The Regression Discontinuity Design](https://github.com/rdpackages-replication/CTV_2020_Sage).<br>
 _Handbook of Research Methods in Political Science and International Relations_, Sage Publications, Ch. 44, pp. 835-857.
 
-- Cattaneo, Titiunik and Vazquez-Bare (2017): [Comparing Inference Approaches for RD Designs: A Reexamination of the Effect of Head Start on Child Mortality](CTV_2017_JPAM
-).<br>
+- Cattaneo, Titiunik and Vazquez-Bare (2017): [Comparing Inference Approaches for RD Designs: A Reexamination of the Effect of Head Start on Child Mortality](https://github.com/rdpackages-replication/CTV_2017_JPAM).<br>
 _Journal of Policy Analysis and Management_ 36(3): 643-681.
 
 ## Research Articles and Applications
