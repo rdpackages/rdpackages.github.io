@@ -25,7 +25,7 @@ _Journal of Policy Analysis and Management_ 36(3): 643-681.
 _Journal of the American Statistical Association_.
 
 - Cattaneo, Jansson and Ma (2020): [Simple Local Polynomial Density Estimators](https://github.com/rdpackages-replication/CJM_2020_JASA).<br>
-_Journal of the American Statistical Association_.
+_Journal of the American Statistical Association_ 115(531): 1449-1455.
 
 - Calonico, Cattaneo and Farrell (2020): [Optimal Bandwidth Choice for Robust Bias Corrected Inference in Regression Discontinuity Designs](https://github.com/rdpackages-replication/CCF_2020_ECTJ).<br>
 _Econometrics Journal_ 23(2): 192-210.
