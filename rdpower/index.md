@@ -17,7 +17,7 @@ To install/update in Stata type:
 net install rdpower, from(https://raw.githubusercontent.com/rdpackages/rdpower/master/stata) replace
 ```
 
-- Help: [rdpower](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdpower.pdf), [rdsampsi](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdsampsi.pdf).
+- Help: [rdpower](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdpower.pdf), [rdsampsi](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdsampsi.pdf), [rdmde](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdmde.pdf).
 
 - Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdpower_illustration.do), [data-senate](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdpower_senate.dta).
 
