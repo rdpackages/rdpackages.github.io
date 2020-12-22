@@ -38,7 +38,7 @@ For overviews and introductions, see [rdpackages website](https://rdpackages.git
 ### Software and Implementation
 
 - Cattaneo, Titiunik and Vazquez-Bare (2020): [Analysis of Regression Discontinuity Designs with Multiple Cutoffs or Multiple Scores](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2020_Stata.pdf).<br>
-_Stata Journal_, forthcoming.
+_Stata Journal_ 20(4): 866-891, December 2020.
 
 ### Technical and Methodological
 
