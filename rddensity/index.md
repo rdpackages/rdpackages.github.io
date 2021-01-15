@@ -46,8 +46,8 @@ For overviews and introductions, see [rdpackages website](https://rdpackages.git
 - Cattaneo, Jansson and Ma (2018): [Manipulation Testing based on Density Discontinuity](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2018_Stata.pdf).<br>
 _Stata Journal_ 18(1): 234-261.
 
-- Cattaneo, Jansson and Ma (2020): [lpdensity: Local Polynomial Density Estimation and Inference](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JSS.pdf).<br>
-Working paper.
+- Cattaneo, Jansson and Ma (2021): [lpdensity: Local Polynomial Density Estimation and Inference](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2021_JSS.pdf).<br>
+_Journal of Statistical Software_, forthcoming.
 
 ### Technical and Methodological
 
@@ -55,8 +55,8 @@ Working paper.
 _Journal of the American Statistical Association_ 115(531): 1449-1455.<br>
 [Supplemental appendix](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JASA--Supplement.pdf).
 
-- Cattaneo, Jansson and Ma (2020): [Local Regression Distribution Estimators](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JoE.pdf).<br>
-Working paper.<br>
-[Supplemental appendix](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2020_JoE--Supplement.pdf).
+- Cattaneo, Jansson and Ma (2021): [Local Regression Distribution Estimators](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2021_JoE.pdf).<br>
+_Journal of Econometrics_, forthcoming.<br>
+[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2021_JoE--Supplement.pdf).
 
 <br><br>
