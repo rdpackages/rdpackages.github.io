@@ -17,7 +17,7 @@ To install/update in Stata type:
 net install rddensity, from(https://raw.githubusercontent.com/rdpackages/rddensity/master/stata) replace
 ```
 
-Plotting employs [`lpdensity`](https://nppackages.github.io/lpdensity/). To install/update in Stata type:
+Plotting employs [`lpdensity`](https://nppackages.github.io/lpdensity/), to install/update in Stata type:
 ```
 net install rddensity, from(https://raw.githubusercontent.com/nppackages/lpdensity/master/stata) replace
 ```
@@ -33,7 +33,7 @@ To install/update in R type:
 install.packages('rddensity')
 ```
 
-Plotting employs [`lpdensity`](https://nppackages.github.io/lpdensity/). To install/update in R type:
+Plotting employs [`lpdensity`](https://nppackages.github.io/lpdensity/), to install/update in R type:
 ```
 install.packages('lpdensity')
 ```
