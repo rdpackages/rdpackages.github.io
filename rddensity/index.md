@@ -17,6 +17,11 @@ To install/update in Stata type:
 net install rddensity, from(https://raw.githubusercontent.com/rdpackages/rddensity/master/stata) replace
 ```
 
+Plotting employs [`lpdensity`](https://nppackages.github.io/lpdensity/). To install/update in Stata type:
+```
+net install rddensity, from(https://raw.githubusercontent.com/nppackages/lpdensity/master/stata) replace
+```
+
 - Help: [rddensity](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity.pdf), [rdbwdensity](https://github.com/rdpackages/rddensity/raw/master/stata/rdbwdensity.pdf).
 
 - Replication: [do-file](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity_illustration.do), [do-file plot](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity_plot_illustration.do), [data-senate](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity_senate.dta).
@@ -26,6 +31,11 @@ net install rddensity, from(https://raw.githubusercontent.com/rdpackages/rddensi
 To install/update in R type:
 ```
 install.packages('rddensity')
+```
+
+Plotting employs [`lpdensity`](https://nppackages.github.io/lpdensity/). To install/update in R type:
+```
+install.packages('lpdensity')
 ```
 
 - Help: [R Manual](https://cran.r-project.org/web/packages/rddensity/rddensity.pdf), [CRAN repository](https://cran.r-project.org/package=rddensity).
