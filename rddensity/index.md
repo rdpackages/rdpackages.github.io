@@ -19,7 +19,7 @@ net install rddensity, from(https://raw.githubusercontent.com/rdpackages/rddensi
 
 Plotting employs [`lpdensity`](https://nppackages.github.io/lpdensity/), to install/update in Stata type:
 ```
-net install rddensity, from(https://raw.githubusercontent.com/nppackages/lpdensity/master/stata) replace
+net install lpdensity, from(https://raw.githubusercontent.com/nppackages/lpdensity/master/stata) replace
 ```
 
 - Help: [rddensity](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity.pdf), [rdbwdensity](https://github.com/rdpackages/rddensity/raw/master/stata/rdbwdensity.pdf).
