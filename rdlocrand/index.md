@@ -4,6 +4,12 @@ The `rdlocrand` package provides Stata and R implementations of statistical infe
 
 This work was supported in part by the National Science Foundation through grants [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561).
 
+## Major Upgrades
+
+This package was first released in Spring 2016, and had one major upgrade in Spring 2021.
+
+- _Spring 2021 new features include_: (i) speed improvements; (ii) mass points in running variable adjustments; and (iii) asymmetric randomization window selection.
+
 ## Stata Implementation
 
 To install/update in Stata type:
