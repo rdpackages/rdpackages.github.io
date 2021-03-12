@@ -40,7 +40,7 @@ install.packages('lpdensity')
 
 - Help: [R Manual](https://cran.r-project.org/web/packages/rddensity/rddensity.pdf), [CRAN repository](https://cran.r-project.org/package=rddensity).
 
-- Replication: [R-script](https://github.com/rdpackages/rddensity/raw/master/R/rddensity_illustration.R), [rdplot illustration](https://github.com/rdpackages/rddensity/raw/master/R/rddensity_plot_illustration.R), [senate data](https://github.com/rdpackages/rddensity/raw/master/R/rddensity_senate.csv).
+- Replication: [R-script](https://github.com/rdpackages/rddensity/raw/master/R/rddensity_illustration.R), [density plot illustration](https://github.com/rdpackages/rddensity/raw/master/R/rddensity_plot_illustration.R), [senate data](https://github.com/rdpackages/rddensity/raw/master/R/rddensity_senate.csv).
 
 ## Repository
 
