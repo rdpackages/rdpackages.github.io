@@ -14,7 +14,7 @@ https://rdpackages.github.io
 - [rdlocrand](https://github.com/rdpackages/rdlocrand): finite-sample inference using local randomization and related methods.
 - [rddensity](https://github.com/rdpackages/rddensity): manipulation testing using local polynomial density methods.
 - [rdmulti](https://github.com/rdpackages/rdmulti): estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
-- [rdpower](https://github.com/rdpackages/rdpower): power and sample size calculations using robust bias-corrected local polynomial inference.
+- [rdpower](https://github.com/rdpackages/rdpower): power, sample size, and minimum detectable effects calculations using robust bias-corrected local polynomial inference.
 
 ## Replication
 

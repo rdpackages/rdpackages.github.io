@@ -6,14 +6,17 @@ This work was supported in part by the National Science Foundation through grant
 
 ## Overviews and Practical Introductions
 
-- Cattaneo, Idrobo and Titiunik (2019, 2020): [A Practical Introduction to Regression Discontinuity Designs](https://github.com/rdpackages-replication/CIT_2019_CUP).<br>
+- Cattaneo, Idrobo and Titiunik (2019, 2021): [A Practical Introduction to Regression Discontinuity Designs](https://github.com/rdpackages-replication/CIT_2019_CUP).<br>
 _Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
 
-- Cattaneo, Keele and Titiunik (2020): [A Guide to Regression Discontinuity Designs in Medical Applications](https://github.com/rdpackages-replication/CKT_2020_wp).<br>
+- Cattaneo, Keele and Titiunik (2021): [A Guide to Regression Discontinuity Designs in Medical Applications](https://github.com/rdpackages-replication/CKT_2020_wp).<br>
 Coming soon.
 
+- Titiunik (2021): [RD Tutorial](T_2021_T_2021_UCL-MC).<br>
+_Master Class_, Public Policy Research Network, 2021.
+
 - Cattaneo (2020): [RD Tutorial](https://github.com/rdpackages-replication/C_2020_Chamberlain).<br>
-_The Gary Chamberlain Online Seminar in Econometrics_, [website](https://www.chamberlainseminar.org/), 2020.
+_The Gary Chamberlain Online Seminar in Econometrics_, 2020.
 
 - Cattaneo, Titiunik and Vazquez-Bare (2020): [The Regression Discontinuity Design](https://github.com/rdpackages-replication/CTV_2020_Sage).<br>
 _Handbook of Research Methods in Political Science and International Relations_, Sage Publications, Ch. 44, pp. 835-857.
