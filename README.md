@@ -10,7 +10,7 @@ https://rdpackages.github.io
 
 ## Software available
 
-- [rdrobust](https://rdpackages.github.io/rdrobust) (Phyton, R, Stata): inference and graphical procedures using local polynomial and partitioning regression methods.
+- [rdrobust](https://rdpackages.github.io/rdrobust) (Python, R, Stata): inference and graphical procedures using local polynomial and partitioning regression methods.
 - [rdlocrand](https://rdpackages.github.io/rdlocrand) (R, Stata): finite-sample inference using local randomization and related methods.
 - [rddensity](https://rdpackages.github.io/rddensity) (R, Stata): manipulation testing using local polynomial density methods.
 - [rdmulti](https://rdpackages.github.io/rdmulti) (R, Stata): estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
