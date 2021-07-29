@@ -12,6 +12,9 @@ _Cambridge Elements: Quantitative and Computational Methods for Social Science_,
 - Cattaneo, Keele and Titiunik (2021): [A Guide to Regression Discontinuity Designs in Medical Applications](https://github.com/rdpackages-replication/CKT_2020_wp).<br>
 Coming soon.
 
+- Cattaneo and Titiunik (2021): [RD Tutorial](https://github.com/rdpackages-replication/CT_2021_NBER).<br>
+_NBER Summer Institute Methods Lectures_, 2021.
+
 - Titiunik (2021): [RD Tutorial](https://github.com/rdpackages-replication/T_2021_PPRN).<br>
 _Master Class_, Public Policy Research Network, 2021.
 
