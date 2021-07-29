@@ -25,7 +25,7 @@ Replication files and illustration code are available in the [replication](https
 - [Sebastian Calonico](https://sites.google.com/site/scalonico), Columbia University.
 - [Matias D. Cattaneo](https://cattaneo.princeton.edu), Princeton University.
 - [Max H. Farrell](https://maxhfarrell.com/), University of Chicago.
-- [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley.
+- [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley and CREATES.
 - [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
 - [Ricardo Masini](https://masini.princeton.edu), Princeton University.
 - [Rocio Titiunik](https://scholar.princeton.edu/titiunik), Princeton University.
