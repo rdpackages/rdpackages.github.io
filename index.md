@@ -4,13 +4,13 @@ Software packages for analysis and interpretation of regression discontinuity de
 
 This work was supported in part by the National Science Foundation through grants [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561), [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931), [SES-1459967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967), [SES-1947662](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662), [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805), and [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432).
 
-## Software available
+## Software available in Python, R and Stata
 
-- [rdrobust](https://rdpackages.github.io/rdrobust) (Python, R, Stata): inference and graphical procedures using local polynomial and partitioning regression methods.
-- [rdlocrand](https://rdpackages.github.io/rdlocrand) (R, Stata): finite-sample inference using local randomization and related methods.
-- [rddensity](https://rdpackages.github.io/rddensity) (R, Stata): manipulation testing using local polynomial density methods.
-- [rdmulti](https://rdpackages.github.io/rdmulti) (R, Stata): estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
-- [rdpower](https://rdpackages.github.io/rdpower) (R, Stata): power, sample size, and minimum detectable effects calculations using robust bias-corrected local polynomial inference.
+- [rdrobust](https://rdpackages.github.io/rdrobust): inference and graphical procedures using local polynomial and partitioning regression methods.
+- [rdlocrand](https://rdpackages.github.io/rdlocrand): finite-sample inference using local randomization and related methods.
+- [rddensity](https://rdpackages.github.io/rddensity): manipulation testing using local polynomial density methods.
+- [rdmulti](https://rdpackages.github.io/rdmulti): estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
+- [rdpower](https://rdpackages.github.io/rdpower): power, sample size, and minimum detectable effects calculations using robust bias-corrected local polynomial inference.
 
 ## Replication
 
@@ -20,6 +20,7 @@ Replication files and illustration code are available in the [replication](https
 
 - [Sebastian Calonico](https://sites.google.com/site/scalonico), Columbia University.
 - [Matias D. Cattaneo](https://cattaneo.princeton.edu), Princeton University.
+- [Rajita Chandak](https://orfe.princeton.edu/people/graduate), Princeton University.
 - [Max H. Farrell](https://maxhfarrell.com/), University of Chicago.
 - [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley and CREATES.
 - [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
