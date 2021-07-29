@@ -4,16 +4,9 @@ The `rdmulti` package provides Stata and R implementation of RD plots, estimatio
 
 This work was supported in part by the National Science Foundation through grants [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561).
 
-## Stata Implementation
+## Python Implementation
 
-To install/update in Stata type:
-```
-net install rdmulti, from(https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata) replace
-```
-
-- Help: [rdmc](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/rdmc.pdf), [rdmcplot](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/rdmcplot.pdf), [rdms](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/rdms.pdf).
-
-- Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/rdmulti_illustration.do), [rdmcplot illustration](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/rdmcplot_illustration.do), [dataset1](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/simdata_multic.dta), [dataset2](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/simdata_cumul.dta), [dataset3](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/simdata_multis.dta).
+Coming soon.
 
 ## R Implementation
 
@@ -25,6 +18,17 @@ install.packages('rdmulti')
 - Help: [R Manual](https://cran.r-project.org/web/packages/rdmulti/rdmulti.pdf), [CRAN repository](https://cran.r-project.org/package=rdmulti).
 
 - Replication: [R-script](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/rdmulti_illustration.R), [rdmcplot illustration](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/rdmcplot_illustration.R), [dataset1](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/simdata_multic.csv), [dataset2](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/simdata_cumul.csv), [dataset3](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/simdata_multis.csv), [R illustration](https://raw.githubusercontent.com/rdpackages/rdmulti/master/R/rdmulti_illustration.pdf)
+
+## Stata Implementation
+
+To install/update in Stata type:
+```
+net install rdmulti, from(https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata) replace
+```
+
+- Help: [rdmc](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/rdmc.pdf), [rdmcplot](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/rdmcplot.pdf), [rdms](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/rdms.pdf).
+
+- Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/rdmulti_illustration.do), [rdmcplot illustration](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/rdmcplot_illustration.do), [dataset1](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/simdata_multic.dta), [dataset2](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/simdata_cumul.dta), [dataset3](https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata/simdata_multis.dta).
 
 ## Repository
 

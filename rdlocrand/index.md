@@ -10,16 +10,9 @@ This package was first released in Spring 2016, and had one major upgrade in Spr
 
 - _Spring 2021 new features include_: (i) speed improvements; (ii) mass points in running variable adjustments; and (iii) asymmetric randomization window selection.
 
-## Stata Implementation
+## Python Implementation
 
-To install/update in Stata type:
-```
-net install rdlocrand, from(https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata) replace
-```
-
-- Help: [rdrandinf](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdrandinf.pdf), [rdwinselect](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdwinselect.pdf), [rdsensitivity](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdsensitivity.pdf), [rdrbounds](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdrbounds.pdf).
-
-- Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdlocrand_illustration.do), [senate data](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdlocrand_senate.dta).
+Coming soon.
 
 ## R Implementation
 
@@ -31,6 +24,17 @@ install.packages('rdlocrand')
 - Help: [R Manual](https://cran.r-project.org/web/packages/rdlocrand/rdlocrand.pdf), [CRAN repository](https://cran.r-project.org/package=rdlocrand).
 
 - Replication: [R-script](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/rdlocrand_illustration.R), [senate data](R/rdlocrand_senate.csv). [R illustration](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/R/rdlocrand_illustration.pdf).
+
+## Stata Implementation
+
+To install/update in Stata type:
+```
+net install rdlocrand, from(https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata) replace
+```
+
+- Help: [rdrandinf](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdrandinf.pdf), [rdwinselect](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdwinselect.pdf), [rdsensitivity](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdsensitivity.pdf), [rdrbounds](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdrbounds.pdf).
+
+- Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdlocrand_illustration.do), [senate data](https://raw.githubusercontent.com/rdpackages/rdlocrand/master/stata/rdlocrand_senate.dta).
 
 ## Repository
 

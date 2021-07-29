@@ -10,16 +10,9 @@ This package was first released in Fall 2016, and had one major upgrade in Fall 
 
 - _Fall 2020 new feature_: command/function `rdmde` for computing minimum detectable effects.
 
-## Stata Implementation
+## Python Implementation
 
-To install/update in Stata type:
-```
-net install rdpower, from(https://raw.githubusercontent.com/rdpackages/rdpower/master/stata) replace
-```
-
-- Help: [rdpower](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdpower.pdf), [rdsampsi](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdsampsi.pdf), [rdmde](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdmde.pdf).
-
-- Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdpower_illustration.do), [data-senate](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdpower_senate.dta).
+Coming soon.
 
 ## R Implementation
 
@@ -30,6 +23,17 @@ install.packages('rdpower')
 - Help: [R Manual](https://cran.r-project.org/web/packages/rdpower/rdpower.pdf), [CRAN repository](https://cran.r-project.org/package=rdpower).
 
 - Replication files: [R-script](https://raw.githubusercontent.com/rdpackages/rdpower/master/R/rdpower_illustration.R), [data-senate](https://raw.githubusercontent.com/rdpackages/rdpower/master/R/rdpower_senate.csv).
+
+## Stata Implementation
+
+To install/update in Stata type:
+```
+net install rdpower, from(https://raw.githubusercontent.com/rdpackages/rdpower/master/stata) replace
+```
+
+- Help: [rdpower](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdpower.pdf), [rdsampsi](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdsampsi.pdf), [rdmde](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdmde.pdf).
+
+- Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdpower_illustration.do), [data-senate](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdpower_senate.dta).
 
 ## Repository
 
