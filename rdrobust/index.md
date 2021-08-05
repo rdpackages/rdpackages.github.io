@@ -4,6 +4,10 @@ The `rdrobust` package provides Python, R and Stata implementations of statistic
 
 This work was supported in part by the National Science Foundation through grants [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561), [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931), [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805) and [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432).
 
+## Queries and Requests
+
+Please email: [rdpackages@googlegroups.com](mailto:rdpackages@googlegroups.com)
+
 ## Major Upgrades
 
 This package was first released in Spring 2014, and had two major upgrades in Fall 2016 and in Winter 2020.
@@ -11,10 +15,6 @@ This package was first released in Spring 2014, and had two major upgrades in Fa
 - _Fall 2016 new features include_: (i) major speed improvements; (ii) covariate-adjusted bandwidth selection, point estimation, and robust inference; (iii) cluster-robust bandwidth selection, point estimation, and robust inference; (iv) weighted global polynomial fits and pointwise confidence bands for RD plots; and (v) several new bandwidths selectors (e.g., different bandwidths for control and treatment groups, coverage error optimal bandwidths, and optimal bandwidths for fuzzy designs).
 
 - _Winter 2020 new features include_: (i) discrete running variable checks and adjustments; (ii) bandwidth selection adjustments for too few mass points in and/or overshooting of the support of the running variable; (iii) RD Plots with additional covariates plotted at their mean (previously the package set additional covariates at zero); (iv) automatic removal of co-linear additional covariates; (v) turn on/off standardization of variables (which may lead to small numerical/rounding discrepancies with prior versions); and (vi) rdplot output using ggplot2 in R.
-
-## Queries and Requests
-
-Please email: [rdpackages@googlegroups.com](mailto:rdpackages@googlegroups.com)
 
 ## Python Implementation
 

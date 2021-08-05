@@ -4,15 +4,15 @@ The `rdpower` package provides Stata and R implementations of power, sample size
 
 This work was supported by the National Science Foundation through grant [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561).
 
+## Queries and Requests
+
+Please email: [rdpackages@googlegroups.com](mailto:rdpackages@googlegroups.com)
+
 ## Major Upgrades
 
 This package was first released in Fall 2016, and had one major upgrade in Fall 2020.
 
 - _Fall 2020 new feature_: command/function `rdmde` for computing minimum detectable effects.
-
-## Queries and Requests
-
-Please email: [rdpackages@googlegroups.com](mailto:rdpackages@googlegroups.com)
 
 ## Python Implementation
 
