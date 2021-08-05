@@ -10,6 +10,10 @@ This package was first released in Spring 2016, and had one major upgrade in Spr
 
 - _Spring 2021 new features include_: (i) speed improvements; (ii) mass points in running variable adjustments; and (iii) asymmetric randomization window selection.
 
+## Queries and Requests
+
+Please email: [rdpackages@googlegroups.com](mailto:rdpackages@googlegroups.com)
+
 ## Python Implementation
 
 Coming soon.

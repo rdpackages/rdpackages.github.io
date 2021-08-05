@@ -8,6 +8,10 @@ This work was supported in part by the National Science Foundation through grant
 
 https://rdpackages.github.io
 
+## Queries and Requests
+
+Please email: [rdpackages@googlegroups.com](mailto:rdpackages@googlegroups.com)
+
 ## Software available in Python, R and Stata
 
 - [rdrobust](https://rdpackages.github.io/rdrobust): inference and graphical procedures using local polynomial and partitioning regression methods.
