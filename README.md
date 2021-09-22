@@ -28,7 +28,7 @@ Replication files and illustration code are available in the [replication](https
 
 - [Sebastian Calonico](https://sites.google.com/site/scalonico), Columbia University.
 - [Matias D. Cattaneo](https://cattaneo.princeton.edu), Princeton University.
-- [Rajita Chandak](https://orfe.princeton.edu/people/graduate), Princeton University.
+- [Rajita Chandak](https://rajitachandak.github.io), Princeton University.
 - [Max H. Farrell](https://maxhfarrell.com/), University of Chicago.
 - [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley and CREATES.
 - [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
