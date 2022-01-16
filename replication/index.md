@@ -30,7 +30,7 @@ _Journal of Policy Analysis and Management_ 36(3): 643-681.
 ## Research Articles and Applications
 
 - Cattaneo, Keele, Titiunik and Vazquez-Bare (2021): [Extrapolating Treatment Effects in Multi-Cutoff Regression Discontinuity Designs](https://github.com/rdpackages-replication/CKTV_2021_JASA).<br>
-_Journal of the American Statistical Association_.
+_Journal of the American Statistical Association_ 116(536): 1941-1952, December 2021.
 
 - Cattaneo, Jansson and Ma (2020): [Simple Local Polynomial Density Estimators](https://github.com/rdpackages-replication/CJM_2020_JASA).<br>
 _Journal of the American Statistical Association_ 115(531): 1449-1455.
