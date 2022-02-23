@@ -38,7 +38,7 @@ Replication files and illustration code are available in the [replication](https
 
 ## Reviews and Introductions
 
-- Cattaneo and Titiunik (2022): [Regression Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-Titiunik_2021_ARE.pdf).<br>
+- Cattaneo and Titiunik (2022): [Regression Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-Titiunik_2022_ARE.pdf).<br>
 Article requested by <i>Annual Review of Economics</i> (vol. 14).
 
 - Cattaneo, Idrobo and Titiunik (2020): [A Practical Introduction to Regression Discontinuity Designs: Foundations](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2020_CUP.pdf).<br>
