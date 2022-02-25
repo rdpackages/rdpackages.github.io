@@ -6,10 +6,10 @@ This work was supported in part by the National Science Foundation through grant
 
 ## Overviews and Practical Introductions
 
-- Cattaneo, Idrobo and Titiunik (2019, 2021): [A Practical Introduction to Regression Discontinuity Designs](https://github.com/rdpackages-replication/CIT_2019_CUP).<br>
+- Cattaneo, Idrobo and Titiunik (2020, 2022): [A Practical Introduction to Regression Discontinuity Designs](https://github.com/rdpackages-replication/CIT_2019_CUP).<br>
 _Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
 
-- Cattaneo, Keele and Titiunik (2021): [A Guide to Regression Discontinuity Designs in Medical Applications](https://github.com/rdpackages-replication/CKT_2020_wp).<br>
+- Cattaneo, Keele and Titiunik (2022): [A Guide to Regression Discontinuity Designs in Medical Applications](https://github.com/rdpackages-replication/CKT_2022_wp).<br>
 Coming soon.
 
 - Cattaneo and Titiunik (2021): [RD Tutorial](https://github.com/rdpackages-replication/CT_2021_NBER).<br>
