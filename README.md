@@ -48,7 +48,7 @@ _Cambridge Elements: Quantitative and Computational Methods for Social Science_,
 _Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
 
 - Cattaneo, Keele and Titiunik (2022): [A Guide to Regression Discontinuity Designs in Medical Applications](https://rdpackages.github.io/references/Cattaneo-Keele-Titiunik_2022_RDIntroMed.pdf).<br>
-Coming soon.
+Working paper.
 
 - Cattaneo, Titiunik and Vazquez-Bare (2020): [The Regression Discontinuity Design](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2020_Sage.pdf).<br>
 _Handbook of Research Methods in Political Science and International Relations_, Sage Publications, Ch. 44, pp. 835-857.
