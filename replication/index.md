@@ -10,16 +10,16 @@ This work was supported in part by the National Science Foundation through grant
 _Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
 
 - Cattaneo, Keele and Titiunik (2022): [A Guide to Regression Discontinuity Designs in Medical Applications](https://github.com/rdpackages-replication/CKT_2022_wp).<br>
-Coming soon.
+Working paper.
 
 - Cattaneo and Titiunik (2021): [RD Tutorial](https://github.com/rdpackages-replication/CT_2021_NBER).<br>
-_NBER Summer Institute Methods Lectures_, 2021.
+_NBER Summer Institute Methods Lectures_.
 
 - Titiunik (2021): [RD Tutorial](https://github.com/rdpackages-replication/T_2021_PPRN).<br>
-_Master Class_, Public Policy Research Network, 2021.
+_Master Class_, Public Policy Research Network.
 
 - Cattaneo (2020): [RD Tutorial](https://github.com/rdpackages-replication/C_2020_Chamberlain).<br>
-_The Gary Chamberlain Online Seminar in Econometrics_, 2020.
+_The Gary Chamberlain Online Seminar in Econometrics_.
 
 - Cattaneo, Titiunik and Vazquez-Bare (2020): [The Regression Discontinuity Design](https://github.com/rdpackages-replication/CTV_2020_Sage).<br>
 _Handbook of Research Methods in Political Science and International Relations_, Sage Publications, Ch. 44, pp. 835-857.
