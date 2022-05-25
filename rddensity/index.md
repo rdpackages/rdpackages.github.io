@@ -1,3 +1,6 @@
+---
+permalink: /rddensity_doc/
+---
 # RDDENSITY
 
 The `rddensity` package provides Stata and R implementations of manipulation tests employing local polynomial density estimation methods. This method is useful for falsification of Regression Discontinuity Designs, as well as for testing for self-selection or sorting in other contexts. This implementation provides hypothesis tests and bandwidth selectors for manipulation testing. 
