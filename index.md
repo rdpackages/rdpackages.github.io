@@ -12,7 +12,7 @@ Please email: [rdpackages@googlegroups.com](mailto:rdpackages@googlegroups.com)
 
 - [rdrobust](https://rdpackages.github.io/rdrobust): inference and graphical procedures using local polynomial and partitioning regression methods.
 - [rdlocrand](https://rdpackages.github.io/rdlocrand): finite-sample inference using local randomization and related methods.
-- [rddensity](https://rdpackages.github.io/rddensity): manipulation testing using local polynomial density methods.
+- [rddensity](https://rdpackages.github.io/rddensity_doc): manipulation testing using local polynomial density methods.
 - [rdmulti](https://rdpackages.github.io/rdmulti): estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
 - [rdpower](https://rdpackages.github.io/rdpower): power, sample size, and minimum detectable effects calculations using robust bias-corrected local polynomial inference.
 
