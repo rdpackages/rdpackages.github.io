@@ -16,7 +16,12 @@ This package was first released in Spring 2017, and had one major upgrade in Sum
 
 ## Python Implementation
 
-Coming soon.
+To install/update in Python type:
+```
+pip install rddensity
+```
+- Help: [PyPI](https://pypi.org/project/rddensity/), [Documentation](https://rdpackages.github.io/rddensity)
+- Replication: [Python script](https://github.com/rdpackages/rddensity/master/Python/rddensity_illustration.py)
 
 ## R Implementation
 
