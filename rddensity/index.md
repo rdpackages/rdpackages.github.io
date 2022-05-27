@@ -12,7 +12,7 @@ Please email: [rdpackages@googlegroups.com](mailto:rdpackages@googlegroups.com)
 
 This package was first released in Spring 2017, and had one major upgrade in Summer 2020.
 
-- _Summer 2020 new features include_: (i) speed improvements; (ii) improved integration with [`lpdensity`](https://nppackages.github.io/lpdensity_doc/); (iii) mass points in running variable adjustments; (iv) bandwidth selection adjustments for too few mass points in and/or overshooting of the support of the running variable; (v) density discontinuity plots with histogram and/or confidence bands; and (vi) binomial testing near cutoff as complementary discontinuity testing following results in [`rdlocrand`](https://rdpackages.github.io/rdlocrand/) methods (see references there for details).
+- _Summer 2020 new features include_: (i) speed improvements; (ii) improved integration with [`lpdensity`](https://nppackages.github.io/lpdensity/); (iii) mass points in running variable adjustments; (iv) bandwidth selection adjustments for too few mass points in and/or overshooting of the support of the running variable; (v) density discontinuity plots with histogram and/or confidence bands; and (vi) binomial testing near cutoff as complementary discontinuity testing following results in [`rdlocrand`](https://rdpackages.github.io/rdlocrand/) methods (see references there for details).
 
 ## Python Implementation
 
@@ -20,7 +20,7 @@ To install/update in Python type:
 ```
 pip install rddensity
 ```
-- Help: [PyPI](https://pypi.org/project/rddensity/), [Documentation](https://rdpackages.github.io/rddensity)
+- Help: [PyPI](https://pypi.org/project/rddensity/), [Documentation](https://github.com/rdpackages/rddensity/tree/master/Python/rddensity/docs/build/latex/rddensity.pdf)
 - Replication: [Python script](https://github.com/rdpackages/rddensity/master/Python/rddensity_illustration.py)
 
 ## R Implementation
