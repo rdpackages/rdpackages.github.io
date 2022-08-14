@@ -35,7 +35,7 @@ Replication files and illustration code are available in the [replication](https
 ## Reviews and Introductions
 
 - Cattaneo and Titiunik (2022): [Regression Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-Titiunik_2022_ARE.pdf).<br>
-<i>Annual Review of Economics</i>, forthcoming (vol. 14).
+<i>Annual Review of Economics</i> 14: 821-851.
 
 - Cattaneo, Idrobo and Titiunik (2020): [A Practical Introduction to Regression Discontinuity Designs: Foundations](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2020_CUP.pdf).<br>
 _Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
