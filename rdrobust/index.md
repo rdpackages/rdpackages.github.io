@@ -25,7 +25,7 @@ pip install rdrobust
 
 - Help: [PyPI repository](https://pypi.org/project/rdrobust/).
 
-- Replication: [py-script](https://raw.githubusercontent.com/rdpackages/rdrobust/master/Python/rdrobust_illustration.py), [rdplot illustration](https://raw.githubusercontent.com/rdpackages/rdrobust/master/Python/rdplot_illustration.py), [senate data](https://raw.githubusercontent.com/rdpackages/rdrobust/master/Python/rdrobust_senate.csv).
+- Replication: [py-script](https://github.com/nppackages/lpcde/blob/main/Python/rdrobust_illustration.py), [rdplot illustration](https://raw.githubusercontent.com/rdpackages/rdrobust/master/Python/rdplot_illustration.py), [senate data](https://raw.githubusercontent.com/rdpackages/rdrobust/master/Python/rdrobust_senate.csv).
 
 ## R Implementation
 
