@@ -26,18 +26,18 @@ install.packages('rdpower')
 ```
 - Help: [R Manual](https://cran.r-project.org/web/packages/rdpower/rdpower.pdf), [CRAN repository](https://cran.r-project.org/package=rdpower).
 
-- Replication files: [R-script](https://raw.githubusercontent.com/rdpackages/rdpower/master/R/rdpower_illustration.R), [data-senate](https://raw.githubusercontent.com/rdpackages/rdpower/master/R/rdpower_senate.csv).
+- Replication files: [R-script](https://github.com/rdpackages/rdpower/blob/master/R/rdpower_illustration.R), [data-senate](https://github.com/rdpackages/rdpower/blob/master/R/rdpower_senate.csv).
 
 ## Stata Implementation
 
 To install/update in Stata type:
 ```
-net install rdpower, from(https://raw.githubusercontent.com/rdpackages/rdpower/master/stata) replace
+net install rdpower, from(https://github.com/rdpackages/rdpower/blob/master/stata) replace
 ```
 
-- Help: [rdpower](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdpower.pdf), [rdsampsi](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdsampsi.pdf), [rdmde](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdmde.pdf).
+- Help: [rdpower](https://github.com/rdpackages/rdpower/blob/master/stata/rdpower.pdf), [rdsampsi](https://github.com/rdpackages/rdpower/blob/master/stata/rdsampsi.pdf), [rdmde](https://github.com/rdpackages/rdpower/blob/master/stata/rdmde.pdf).
 
-- Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdpower_illustration.do), [data-senate](https://raw.githubusercontent.com/rdpackages/rdpower/master/stata/rdpower_senate.dta).
+- Replication: [do-file](https://github.com/rdpackages/rdpower/blob/master/stata/rdpower_illustration.do), [data-senate](https://github.com/rdpackages/rdpower/blob/master/stata/rdpower_senate.dta).
 
 ## Repository
 
