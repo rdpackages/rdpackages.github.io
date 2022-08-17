@@ -42,7 +42,7 @@ install.packages('rdrobust')
 
 To install/update in Stata type:
 ```
-net install rdrobust, from(https://github.com/rdpackages/rdrobust/blob/master/stata) replace
+net install rdrobust, from(https://raw.githubusercontent.com/rdpackages/rdrobust/master/stata) replace
 ```
 
 - Help: [rdrobust](https://github.com/rdpackages/rdrobust/blob/master/stata/rdrobust.pdf), [rdbwselect](https://github.com/rdpackages/rdrobust/blob/master/stata/rdbwselect.pdf), [rdplot](https://github.com/rdpackages/rdrobust/blob/master/stata/rdplot.pdf).

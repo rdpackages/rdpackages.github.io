@@ -43,7 +43,7 @@ install.packages('lpdensity')
 
 To install/update in Stata type:
 ```
-net install rddensity, from(https://github.com/rdpackages/rddensity/blob/master/stata) replace
+net install rddensity, from(https://raw.githubusercontent.com/rdpackages/rddensity/master/stata) replace
 ```
 
 Plotting employs [`lpdensity`](https://nppackages.github.io/lpdensity/), to install/update in Stata type:

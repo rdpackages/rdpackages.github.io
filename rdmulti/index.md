@@ -27,7 +27,7 @@ install.packages('rdmulti')
 
 To install/update in Stata type:
 ```
-net install rdmulti, from(https://github.com/rdpackages/rdmulti/blob/master/stata) replace
+net install rdmulti, from(https://raw.githubusercontent.com/rdpackages/rdmulti/master/stata) replace
 ```
 
 - Help: [rdmc](https://github.com/rdpackages/rdmulti/blob/master/stata/rdmc.pdf), [rdmcplot](https://github.com/rdpackages/rdmulti/blob/master/stata/rdmcplot.pdf), [rdms](https://github.com/rdpackages/rdmulti/blob/master/stata/rdms.pdf).

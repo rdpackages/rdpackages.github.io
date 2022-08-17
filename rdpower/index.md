@@ -32,7 +32,7 @@ install.packages('rdpower')
 
 To install/update in Stata type:
 ```
-net install rdpower, from(https://github.com/rdpackages/rdpower/blob/master/stata) replace
+net install rdpower, from(https://raw.githubusercontent.com/rdpackages/rdpower/master/stata) replace
 ```
 
 - Help: [rdpower](https://github.com/rdpackages/rdpower/blob/master/stata/rdpower.pdf), [rdsampsi](https://github.com/rdpackages/rdpower/blob/master/stata/rdsampsi.pdf), [rdmde](https://github.com/rdpackages/rdpower/blob/master/stata/rdmde.pdf).
