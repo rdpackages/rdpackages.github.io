@@ -70,7 +70,7 @@ For overviews and introductions, see [rdpackages website](https://rdpackages.git
 _Stata Journal_ 18(1): 234-261.
 
 - Cattaneo, Jansson and Ma (2022): [lpdensity: Local Polynomial Density Estimation and Inference](https://rdpackages.github.io/references/Cattaneo-Jansson-Ma_2022_JSS.pdf).<br>
-_Journal of Statistical Software_, forthcoming.
+_Journal of Statistical Software_ 101(2): 1-25.
 
 ### Technical and Methodological
 
