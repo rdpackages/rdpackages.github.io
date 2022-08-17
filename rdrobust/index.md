@@ -36,18 +36,18 @@ install.packages('rdrobust')
 
 - Help: [R Manual](https://cran.r-project.org/web/packages/rdrobust/rdrobust.pdf), [CRAN repository](https://cran.r-project.org/package=rdrobust).
 
-- Replication: [R-script](https://raw.githubusercontent.com/rdpackages/rdrobust/master/R/rdrobust_illustration.r), [rdplot illustration](https://raw.githubusercontent.com/rdpackages/rdrobust/master/R/rdplot_illustration.R), [senate data](https://raw.githubusercontent.com/rdpackages/rdrobust/master/R/rdrobust_senate.csv).
+- Replication: [R-script](https://github.com/rdpackages/rdrobust/blob/master/R/rdrobust_illustration.r), [rdplot illustration](https://github.com/rdpackages/rdrobust/blob/master/R/rdplot_illustration.R), [senate data](https://github.com/rdpackages/rdrobust/blob/master/R/rdrobust_senate.csv).
 
 ## Stata Implementation
 
 To install/update in Stata type:
 ```
-net install rdrobust, from(https://raw.githubusercontent.com/rdpackages/rdrobust/master/stata) replace
+net install rdrobust, from(https://github.com/rdpackages/rdrobust/blob/master/stata) replace
 ```
 
-- Help: [rdrobust](https://raw.githubusercontent.com/rdpackages/rdrobust/master/stata/rdrobust.pdf), [rdbwselect](https://raw.githubusercontent.com/rdpackages/rdrobust/master/stata/rdbwselect.pdf), [rdplot](https://raw.githubusercontent.com/rdpackages/rdrobust/master/stata/rdplot.pdf).
+- Help: [rdrobust](https://github.com/rdpackages/rdrobust/blob/master/stata/rdrobust.pdf), [rdbwselect](https://github.com/rdpackages/rdrobust/blob/master/stata/rdbwselect.pdf), [rdplot](https://github.com/rdpackages/rdrobust/blob/master/stata/rdplot.pdf).
 
-- Replication: [do-file](https://raw.githubusercontent.com/rdpackages/rdrobust/master/stata/rdrobust_illustration.do), [rdplot illustration](https://raw.githubusercontent.com/rdpackages/rdrobust/master/stata/rdplot_illustration.do), [senate data](https://raw.githubusercontent.com/rdpackages/rdrobust/master/stata/rdrobust_senate.dta).
+- Replication: [do-file](https://github.com/rdpackages/rdrobust/blob/master/stata/rdrobust_illustration.do), [rdplot illustration](https://github.com/rdpackages/rdrobust/blob/master/stata/rdplot_illustration.do), [senate data](https://github.com/rdpackages/rdrobust/blob/master/stata/rdrobust_senate.dta).
 
 ## Repository
 
