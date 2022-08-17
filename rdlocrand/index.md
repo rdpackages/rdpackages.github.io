@@ -27,7 +27,7 @@ install.packages('rdlocrand')
 
 - Help: [R Manual](https://cran.r-project.org/web/packages/rdlocrand/rdlocrand.pdf), [CRAN repository](https://cran.r-project.org/package=rdlocrand).
 
-- Replication: [R-script](https://github.com/rdpackages/rdlocrand/blob/master/R/rdlocrand_illustration.R), [senate data](R/rdlocrand_senate.csv). [R illustration](https://github.com/rdpackages/rdlocrand/blob/master/R/rdlocrand_illustration.pdf).
+- Replication: [R-script](https://github.com/rdpackages/rdlocrand/blob/master/R/rdlocrand_illustration.R), [senate data](https://github.com/rdpackages/rdlocrand/blob/master/R/rdlocrand_senate.csv), [R illustration](https://github.com/rdpackages/rdlocrand/blob/master/R/rdlocrand_illustration.pdf).
 
 ## Stata Implementation
 

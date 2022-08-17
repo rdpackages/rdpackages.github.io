@@ -37,13 +37,13 @@ install.packages('lpdensity')
 
 - Help: [R Manual](https://cran.r-project.org/web/packages/rddensity/rddensity.pdf), [CRAN repository](https://cran.r-project.org/package=rddensity).
 
-- Replication: [R-script](https://github.com/rdpackages/rddensity/raw/master/R/rddensity_illustration.R), [density plot illustration](https://github.com/rdpackages/rddensity/raw/master/R/rddensity_plot_illustration.R), [senate data](https://github.com/rdpackages/rddensity/raw/master/R/rddensity_senate.csv).
+- Replication: [R-script](https://github.com/rdpackages/rddensity/master/R/rddensity_illustration.R), [density plot illustration](https://github.com/rdpackages/rddensity/master/R/rddensity_plot_illustration.R), [senate data](https://github.com/rdpackages/rddensity/master/R/rddensity_senate.csv).
 
 ## Stata Implementation
 
 To install/update in Stata type:
 ```
-net install rddensity, from(https://raw.githubusercontent.com/rdpackages/rddensity/master/stata) replace
+net install rddensity, from(https://github.com/rdpackages/rddensity/blob/master/stata) replace
 ```
 
 Plotting employs [`lpdensity`](https://nppackages.github.io/lpdensity/), to install/update in Stata type:
@@ -51,9 +51,9 @@ Plotting employs [`lpdensity`](https://nppackages.github.io/lpdensity/), to inst
 net install lpdensity, from(https://raw.githubusercontent.com/nppackages/lpdensity/master/stata) replace
 ```
 
-- Help: [rddensity](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity.pdf), [rdbwdensity](https://github.com/rdpackages/rddensity/raw/master/stata/rdbwdensity.pdf).
+- Help: [rddensity](https://github.com/rdpackages/rddensity/master/stata/rddensity.pdf), [rdbwdensity](https://github.com/rdpackages/rddensity/master/stata/rdbwdensity.pdf).
 
-- Replication: [do-file](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity_illustration.do), [do-file plot](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity_plot_illustration.do), [data-senate](https://github.com/rdpackages/rddensity/raw/master/stata/rddensity_senate.dta).
+- Replication: [do-file](https://github.com/rdpackages/rddensity/master/stata/rddensity_illustration.do), [do-file plot](https://github.com/rdpackages/rddensity/master/stata/rddensity_plot_illustration.do), [data-senate](https://github.com/rdpackages/rddensity/master/stata/rddensity_senate.dta).
 
 ## Repository
 
