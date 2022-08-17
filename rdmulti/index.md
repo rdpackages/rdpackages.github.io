@@ -46,7 +46,7 @@ For overviews and introductions, see [rdpackages website](https://rdpackages.git
 ### Software and Implementation
 
 - Cattaneo, Titiunik and Vazquez-Bare (2020): [Analysis of Regression Discontinuity Designs with Multiple Cutoffs or Multiple Scores](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2020_Stata.pdf).<br>
-_Stata Journal_ 20(4): 866-891, December 2020.
+_Stata Journal_ 20(4): 866-891.
 
 ### Technical and Methodological
 
@@ -55,7 +55,7 @@ _Journal of Politics_ 78(4): 1229-1248.<br>
 [Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Keele-Titiunik-VazquezBare_2016_JOP--Supplement.pdf).
 
 - Cattaneo, Keele, Titiunik and Vazquez-Bare (2021): [Extrapolating Treatment Effects in Multi-Cutoff Regression Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-Keele-Titiunik-VazquezBare_2021_JASA.pdf).<br>
-_Journal of the American Statistical Association_ 116(536): 1941-1952, December 2021.<br>
+_Journal of the American Statistical Association_ 116(536): 1941-1952.<br>
 [Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Keele-Titiunik-VazquezBare_2021_JASA--Supplement.pdf).
 
 - Keele and Titiunik (2015): [Geographic Boundaries as Regression Discontinuities](https://rdpackages.github.io/references/Keele-Titiunik_2015_PA.pdf).<br>
