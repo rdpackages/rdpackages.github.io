@@ -50,6 +50,9 @@ _Stata Journal_ 20(4): 866-891.
 
 ### Technical and Methodological
 
+- Keele and Titiunik (2015): [Geographic Boundaries as Regression Discontinuities](https://rdpackages.github.io/references/Keele-Titiunik_2015_PA.pdf).<br>
+_Political Analysis_ 23(1): 127-155.
+
 - Cattaneo, Keele, Titiunik and Vazquez-Bare (2016): [Interpreting Regression Discontinuity Designs with Multiple Cutoffs](https://rdpackages.github.io/references/Cattaneo-Keele-Titiunik-VazquezBare_2016_JOP.pdf).<br>
 _Journal of Politics_ 78(4): 1229-1248.<br>
 [Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Keele-Titiunik-VazquezBare_2016_JOP--Supplement.pdf).
@@ -57,8 +60,5 @@ _Journal of Politics_ 78(4): 1229-1248.<br>
 - Cattaneo, Keele, Titiunik and Vazquez-Bare (2021): [Extrapolating Treatment Effects in Multi-Cutoff Regression Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-Keele-Titiunik-VazquezBare_2021_JASA.pdf).<br>
 _Journal of the American Statistical Association_ 116(536): 1941-1952.<br>
 [Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Keele-Titiunik-VazquezBare_2021_JASA--Supplement.pdf).
-
-- Keele and Titiunik (2015): [Geographic Boundaries as Regression Discontinuities](https://rdpackages.github.io/references/Keele-Titiunik_2015_PA.pdf).<br>
-_Political Analysis_ 23(1): 127-155.
 
 <br><br>
