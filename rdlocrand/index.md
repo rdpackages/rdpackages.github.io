@@ -23,7 +23,7 @@ pip install rdlocrand
 
 - Help: [PyPI repository](https://pypi.org/project/rdlocrand/).
 
-- Replication: [py-script](https://github.com/rdpackages/rdrobust/blob/master/Python/rdlocrand_illustration.py), [senate data](https://github.com/rdpackages/rdrobust/blob/master/Python/rdlocrand_senate.csv).
+- Replication: [py-script](https://github.com/rdpackages/rdlocrand/blob/master/Python/rdlocrand_illustration.py), [senate data](https://github.com/rdpackages/rdlocrand/blob/master/Python/rdlocrand_senate.csv).
 
 ## R Implementation
 
