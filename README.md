@@ -28,7 +28,7 @@ Replication files and illustration code are available in the [replication](https
 
 - [Sebastian Calonico](https://sites.google.com/site/scalonico), UC Davis.
 - [Matias D. Cattaneo](https://cattaneo.princeton.edu), Princeton University.
-- [Rajita Chandak](https://rajitachandak.github.io), Princeton University.
+- [Rajita Chandak](https://rajitachandak.github.io), University of Wisconsin-Madison.
 - [Nicolas Idrobo](https://idrobo.github.io/), University of Pennsylvania.
 - [Max H. Farrell](https://maxhfarrell.com/), UC Santa Barbara.
 - [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley.
