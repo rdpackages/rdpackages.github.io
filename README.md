@@ -33,7 +33,7 @@ Replication files and illustration code are available in the [replication](https
 - [Max H. Farrell](https://maxhfarrell.com/), UC Santa Barbara.
 - [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley.
 - [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
-- [Ricardo Masini](https://masini.princeton.edu), UC Davis.
+- [Ricardo Masini](https://anson.ucdavis.edu/~rmasini/), UC Davis.
 - [Rocio Titiunik](https://scholar.princeton.edu/titiunik), Princeton University.
 - [Gonzalo Vazquez-Bare](https://sites.google.com/site/gvazquezbare), UC Santa Barbara.
 
