@@ -26,7 +26,7 @@ Replication files and illustration code are available in the [replication](https
 
 ## Contributors
 
-- [Sebastian Calonico](https://sites.google.com/site/scalonico), Columbia University.
+- [Sebastian Calonico](https://sites.google.com/site/scalonico), UC Davis.
 - [Matias D. Cattaneo](https://cattaneo.princeton.edu), Princeton University.
 - [Rajita Chandak](https://rajitachandak.github.io), Princeton University.
 - [Nicolas Idrobo](https://idrobo.github.io/), University of Pennsylvania.
