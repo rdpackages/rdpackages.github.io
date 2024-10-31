@@ -53,6 +53,9 @@ _Handbook of Research Methods in Political Science and International Relations_,
 - Cattaneo, Titiunik and Vazquez-Bare (2017): [Comparing Inference Approaches for RD Designs: A Reexamination of the Effect of Head Start on Child Mortality](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2017_JPAM.pdf).<br>
 _Journal of Policy Analysis and Management_ 36(3): 643-681.
 
+- Cattaneo and Titiunik (2024): [Comment: Protocols for Observational Studies: An Application to Regression Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-Titiunik_2024_STS--Comment.pdf).<br>
+<i>Statistical Science</i> 39(4): 560-565.
+
 - Cattaneo and Vazquez-Bare (2016): [The Choice of Neighborhood in Regression Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-VazquezBare_2016_ObsStud.pdf).<br>
 _Observational Studies_ 2: 134-146.
 
