@@ -15,6 +15,9 @@ _Cambridge Elements: Quantitative and Computational Methods for Social Science_,
 - Cattaneo, Keele and Titiunik (2023): [A Guide to Regression Discontinuity Designs in Medical Applications](https://github.com/rdpackages-replication/CKT_2023_SIM).<br>
 _Statistics in Medicine_ 42(24): 4484-4513.
 
+- Cattaneo and Palomba (2025): [Leveraging Covariates in Regression Discontinuity Designs](https://github.com/rdpackages-replication/CP_2025_IZAWOL).<br>
+_IZA World of Labor_, to appear.
+
 - Cattaneo and Titiunik (2021): [RD Tutorial](https://github.com/rdpackages-replication/CT_2021_NBER).<br>
 _NBER Summer Institute Methods Lectures_.
 
@@ -33,6 +36,9 @@ _Handbook of Research Methods in Political Science and International Relations_,
 _Journal of Policy Analysis and Management_ 36(3): 643-681.
 
 ## Research Articles and Applications
+
+- Calonico, Cattaneo, Farrell and Titiunik (2025): [Heterogeneous Treatment Effects in Regression Discontinuity Designs](https://github.com/rdpackages-replication/CCFPT_2025_wp).<br>
+Working paper.
 
 - Cattaneo, Keele, Titiunik and Vazquez-Bare (2021): [Extrapolating Treatment Effects in Multi-Cutoff Regression Discontinuity Designs](https://github.com/rdpackages-replication/CKTV_2021_JASA).<br>
 _Journal of the American Statistical Association_ 116(536): 1941-1952.
