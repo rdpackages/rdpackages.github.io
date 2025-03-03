@@ -2,7 +2,7 @@
 title       : RD Packages
 tagline     : 'RD Software Packages'
 description : 'Regression Discontinuity Designs Software Packages'
-keywords    : "regression discontinuity designs, program evaluation, causal inference, treatment effects, R, Stata"
+keywords    : "regression discontinuity designs, program evaluation, causal inference, treatment effects, Python, R, Stata"
 url         : https://rdpackages.github.io
 baseurl     : ''
 paginate    : 5
