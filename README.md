@@ -14,11 +14,13 @@ Please email: [rdpackages@googlegroups.com](mailto:rdpackages@googlegroups.com)
 
 ## Software available in Python, R and Stata
 
-- [rdrobust](https://rdpackages.github.io/rdrobust): inference and graphical procedures using local polynomial and partitioning regression methods.
-- [rdlocrand](https://rdpackages.github.io/rdlocrand): finite-sample inference using local randomization and related methods.
+- [rdrobust](https://rdpackages.github.io/rdrobust): estimation, inference and graphical procedures using local polynomial and partitioning regression methods.
+- [rdhte](https://rdpackages.github.io/rdhte): estimation and inference for heterogeneous treatment effects.
+- [rdlocrand](https://rdpackages.github.io/rdlocrand): finite-sample and large-sample estimation and inference using local randomization and related methods.
 - [rddensity](https://rdpackages.github.io/rddensity): manipulation testing using local polynomial density methods.
-- [rdmulti](https://rdpackages.github.io/rdmulti): estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
 - [rdpower](https://rdpackages.github.io/rdpower): power, sample size, and minimum detectable effects calculations using robust bias-corrected local polynomial inference.
+- [rd2d](https://rdpackages.github.io/rd2d): estimation and inference for boundary discontinuity designs.
+- [rdmulti](https://rdpackages.github.io/rdmulti): estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
 
 ## Replication
 
@@ -37,6 +39,7 @@ Replication files and illustration code are available in the [replication](https
 - [Filippo Palomba](https://filippopalomba.github.io/), Princeton University.
 - [Rocio Titiunik](https://scholar.princeton.edu/titiunik), Princeton University.
 - [Gonzalo Vazquez-Bare](https://sites.google.com/site/gvazquezbare), UC Santa Barbara.
+- [Ruiqi (Rae) Yu](https://orfe.princeton.edu/people/rae-yu), Princeton University.
 
 ## Reviews and Introductions
 
