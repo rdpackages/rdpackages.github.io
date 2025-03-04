@@ -23,7 +23,7 @@ install.packages('rd2d')
 
 ## Repository
 
-For source code and related files, visit [`rdrobust` repository](https://github.com/rdpackages/rd2d/).
+For source code and related files, visit [`rd2d` repository](https://github.com/rdpackages/rd2d/).
 
 
 ## References
