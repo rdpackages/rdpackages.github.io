@@ -39,7 +39,7 @@ Replication files and illustration code are available in the [replication](https
 - [Filippo Palomba](https://filippopalomba.github.io/), Princeton University.
 - [Rocio Titiunik](https://scholar.princeton.edu/titiunik), Princeton University.
 - [Gonzalo Vazquez-Bare](https://sites.google.com/site/gvazquezbare), UC Santa Barbara.
-- [Ruiqi (Rae) Yu](https://orfe.princeton.edu/people/rae-yu), Princeton University.
+- [Ruiqi (Rae) Yu](https://ruiiiiqi.github.io/), Princeton University.
 
 ## Reviews and Introductions
 
