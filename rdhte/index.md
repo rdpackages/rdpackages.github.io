@@ -20,7 +20,7 @@ install.packages('rdhte')
 
 - Replication: [R-script](https://github.com/rdpackages/rdhte/blob/main/R/rdhte_illustration.r), [rdplot illustration](https://github.com/rdpackages/rdhte/blob/main/R/rdhte_plot_illustration.R), [senate data](https://github.com/rdpackages/rdhte/blob/main/R/rdhte_senate.csv).
 
-## Stata Implementation
+## Stata Implementation (Coming soon)
 
 To install/update in Stata type:
 ```
@@ -43,11 +43,11 @@ For overviews and introductions, see [rdpackages website](https://rdpackages.git
 ### Software and Implementation
 
 - Calonico, Cattaneo, Farrell, Palomba and Titiunik (2025): [rdhte: Learning Conditional Average Treatment Effects in RD Designs](https://rdpackages.github.io/references/Calonico-Cattaneo-Farrell-Palomba-Titiunik_2025_Stata.pdf).<br>
-_Stata Journal_ 17(2): 372-404.
+Working paper.<br>
 
 ### Technical and Methodological
 
-- Calonico, Cattaneo, Farrell, Palomba and Titiunik (2025): [Heterogenous Treatment Effect in Regression Discontinuity Designs](https://rdpackages.github.io/references/Calonico-Cattaneo-Farrell-Palomba-Titiunik_2025_wp.pdf).<br>
+- Calonico, Cattaneo, Farrell, Palomba and Titiunik (2025): [Heterogenous Treatment Effects in Regression Discontinuity Designs](https://rdpackages.github.io/references/Calonico-Cattaneo-Farrell-Palomba-Titiunik_2025_wp.pdf).<br>
 Working paper.<br>
 [Supplemental Appendix](https://rdpackages.github.io/references/Calonico-Cattaneo-Farrell-Palomba-Titiunik_2025_wp--Supplement.pdf).
 
