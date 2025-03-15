@@ -22,6 +22,7 @@ install.packages('rdhte')
 
 ## Stata Implementation (Coming soon)
 
+<!---
 To install/update in Stata type:
 ```
 net install rdhte, from(https://raw.githubusercontent.com/rdpackages/rdhte/main/stata) replace
@@ -30,6 +31,7 @@ net install rdhte, from(https://raw.githubusercontent.com/rdpackages/rdhte/main/
 - Help: [rdhte](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte.pdf), [rdbwhte](https://github.com/rdpackages/rdhte/blob/main/stata/rdbwselect.pdf), [rdplot](https://github.com/rdpackages/rdhte/blob/main/stata/rdplot.pdf).
 
 - Replication: [do-file](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte_illustration.do), [rdplot illustration](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte_plot_illustration.do), [senate data](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte_senate.dta).
+-->
 
 ## Repository
 
@@ -47,9 +49,9 @@ Working paper.<br>
 
 ### Technical and Methodological
 
-- Calonico, Cattaneo, Farrell, Palomba and Titiunik (2025): [Heterogenous Treatment Effects in Regression Discontinuity Designs](https://rdpackages.github.io/references/Calonico-Cattaneo-Farrell-Palomba-Titiunik_2025_wp.pdf).<br>
+- Calonico, Cattaneo, Farrell, Palomba and Titiunik (2025): [Heterogenous Treatment Effects in Regression Discontinuity Designs](https://rdpackages.github.io/references/Calonico-Cattaneo-Farrell-Palomba-Titiunik_2025_HTERD.pdf).<br>
 Working paper.<br>
-[Supplemental Appendix](https://rdpackages.github.io/references/Calonico-Cattaneo-Farrell-Palomba-Titiunik_2025_wp--Supplement.pdf).
+[Supplemental Appendix](https://rdpackages.github.io/references/Calonico-Cattaneo-Farrell-Palomba-Titiunik_2025_HTERD--Supplement.pdf).
 
 
 <br><br>
