@@ -33,7 +33,7 @@ For overviews and introductions, see [rdpackages website](https://rdpackages.git
 
 ### Technical and Methodological
 
-- Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Design](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BoundaryRD.pdf).<br>
+- Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BoundaryRD.pdf).<br>
 Working paper.<br>
 [Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BoundaryRD--Supplement.pdf).
 
