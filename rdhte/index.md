@@ -2,7 +2,7 @@
 
 The `RDHTE` package provides R and Stata implementations of estimation and inference procedures for heterogeneous treatment effects in Regression Discontinuity designs employing local polynomial methods.
 
-This work was supported in part by the National Science Foundation through grant [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432).
+This work was supported in part by the National Science Foundation through grants [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432), and [SES-2241575](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241575).
 
 ## Queries and Requests
 
