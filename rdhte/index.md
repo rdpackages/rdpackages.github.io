@@ -49,7 +49,7 @@ Working paper.<br>
 
 ### Technical and Methodological
 
-- Calonico, Cattaneo, Farrell, Palomba and Titiunik (2025): [Heterogenous Treatment Effects in Regression Discontinuity Designs](https://rdpackages.github.io/references/Calonico-Cattaneo-Farrell-Palomba-Titiunik_2025_HTERD.pdf).<br>
+- Calonico, Cattaneo, Farrell, Palomba and Titiunik (2025): [Treatment Effect Heterogeneity in Regression Discontinuity Designs](https://rdpackages.github.io/references/Calonico-Cattaneo-Farrell-Palomba-Titiunik_2025_HTERD.pdf).<br>
 Working paper.<br>
 [Supplemental Appendix](https://rdpackages.github.io/references/Calonico-Cattaneo-Farrell-Palomba-Titiunik_2025_HTERD--Supplement.pdf).
 
