@@ -30,6 +30,10 @@ For source code and related files, visit [`rd2d` repository](https://github.com/
 
 For overviews and introductions, see [rdpackages website](https://rdpackages.github.io).
 
+### Software and Implementation
+
+- Cattaneo, Titiunik and Yu (2025): [rd2d: Causal Inference in Boundary Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_rd2d.pdf).<br>
+Working paper.
 
 ### Technical and Methodological
 
