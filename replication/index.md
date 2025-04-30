@@ -38,7 +38,7 @@ _Journal of Policy Analysis and Management_ 36(3): 643-681.
 
 ## Research Articles and Applications
 
-- Calonico, Cattaneo, Farrell, Palomba and Titiunik (2025): [Heterogeneous Treatment Effects in Regression Discontinuity Designs](https://github.com/rdpackages-replication/CCFPT_2025_wp).<br>
+- Calonico, Cattaneo, Farrell, Palomba and Titiunik (2025): [Treatment Effect Heterogeneity in Regression Discontinuity Designs](https://github.com/rdpackages-replication/CCFPT_2025_wp).<br>
 Working paper.
 
 - Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Designs](https://github.com/rdpackages-replication/CTY_2025_wp).<br>
