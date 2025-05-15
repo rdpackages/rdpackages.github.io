@@ -18,7 +18,7 @@ install.packages('rd2d')
 
 - Help: [R Manual](https://cran.r-project.org/web/packages/rd2d/rd2d.pdf), [CRAN repository](https://cran.r-project.org/package=rd2d).
 
-- Replication: [R-script](https://github.com/rdpackages/rd2d/blob/main/R/rd2d_illustration.R), [data](https://github.com/rdpackages/rd2d/blob/main/R/rd2d_data.csv).
+- Replication: [Data](https://github.com/rdpackages/rd2d/blob/main/R/Data/), [Illustration](https://github.com/rdpackages/rd2d/blob/main/R/rd2d_illustration.R), [Plot TE Curve](https://github.com/rdpackages/rd2d/blob/main/R/rd2d_plot_effects.R), [Plot Heat Maps](https://github.com/rdpackages/rd2d/blob/main/R/rd2d_plot_heatmaps.R).
 
 
 ## Repository
