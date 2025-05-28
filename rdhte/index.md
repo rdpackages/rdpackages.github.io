@@ -44,7 +44,7 @@ For overviews and introductions, see [rdpackages website](https://rdpackages.git
 
 ### Software and Implementation
 
-- Calonico, Cattaneo, Farrell, Palomba and Titiunik (2025): [rdhte: Learning Conditional Average Treatment Effects in RD Designs](https://rdpackages.github.io/references/Calonico-Cattaneo-Farrell-Palomba-Titiunik_2025_Stata.pdf).<br>
+- Calonico, Cattaneo, Farrell, Palomba and Titiunik (2025): [rdhte: Conditional Average Treatment Effects in RD Designs](https://rdpackages.github.io/references/Calonico-Cattaneo-Farrell-Palomba-Titiunik_2025_Stata.pdf).<br>
 Working paper.
 
 ### Technical and Methodological
