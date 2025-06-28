@@ -20,7 +20,9 @@ install.packages('rdhte')
 
 - Replication: [R-script](https://github.com/rdpackages/rdhte/blob/main/R/rdhte_illustration.r), [dataset](https://github.com/rdpackages/rdhte/blob/main/R/rdhte_dataset.csv).
 
-## Stata Implementation (Coming soon)
+<!--
+
+## Stata Implementation
 
 To install/update in Stata type:
 ```
@@ -31,6 +33,7 @@ net install rdhte, from(https://raw.githubusercontent.com/rdpackages/rdhte/main/
 
 - Replication: [do-file](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte_illustration.do), [dataset](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte_dataset.dta).
 
+-->
 
 ## Repository
 
