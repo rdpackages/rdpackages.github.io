@@ -18,11 +18,10 @@ install.packages('rdhte')
 
 - Help: [R Manual](https://cran.r-project.org/web/packages/rdhte/rdhte.pdf), [CRAN repository](https://cran.r-project.org/package=rdhte).
 
-- Replication: [R-script](https://github.com/rdpackages/rdhte/blob/main/R/rdhte_illustration.r), [rdplot illustration](https://github.com/rdpackages/rdhte/blob/main/R/rdhte_plot_illustration.R), [senate data](https://github.com/rdpackages/rdhte/blob/main/R/rdhte_senate.csv).
+- Replication: [R-script](https://github.com/rdpackages/rdhte/blob/main/R/rdhte_illustration.r), [dataset](https://github.com/rdpackages/rdhte/blob/main/R/rdhte_dataset.csv).
 
 ## Stata Implementation (Coming soon)
 
-<!---
 To install/update in Stata type:
 ```
 net install rdhte, from(https://raw.githubusercontent.com/rdpackages/rdhte/main/stata) replace
@@ -30,8 +29,8 @@ net install rdhte, from(https://raw.githubusercontent.com/rdpackages/rdhte/main/
 
 - Help: [rdhte](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte.pdf), [rdbwhte](https://github.com/rdpackages/rdhte/blob/main/stata/rdbwselect.pdf), [rdplot](https://github.com/rdpackages/rdhte/blob/main/stata/rdplot.pdf).
 
-- Replication: [do-file](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte_illustration.do), [rdplot illustration](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte_plot_illustration.do), [senate data](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte_senate.dta).
--->
+- Replication: [do-file](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte_illustration.do), [dataset](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte_dataset.dta).
+
 
 ## Repository
 
