@@ -29,7 +29,7 @@ To install/update in Stata type:
 net install rdhte, from(https://raw.githubusercontent.com/rdpackages/rdhte/main/stata) replace
 ```
 
-- Help: [rdhte](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte.pdf), [rdbwhte](https://github.com/rdpackages/rdhte/blob/main/stata/rdbwselect.pdf), [rdplot](https://github.com/rdpackages/rdhte/blob/main/stata/rdplot.pdf).
+- Help: [rdhte](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte.pdf), [rdbwhte](https://github.com/rdpackages/rdhte/blob/main/stata/rdbwhte.pdf), [rdhte_lincom](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte_lincom.pdf).
 
 - Replication: [do-file](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte_illustration.do), [dataset](https://github.com/rdpackages/rdhte/blob/main/stata/rdhte_dataset.dta).
 
