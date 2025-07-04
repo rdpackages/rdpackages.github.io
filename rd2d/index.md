@@ -41,5 +41,8 @@ Working paper.
 Working paper.<br>
 [Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BoundaryRD--Supplement.pdf).
 
+- Cattaneo, Titiunik and Yu (2025): [Causal Treatment Effect Aggregation in Boundary Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_AggregationBoundary.pdf).<br>
+Working paper.<br>
+[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_AggregationBoundary--Supplement.pdf).
 
 <br><br>
