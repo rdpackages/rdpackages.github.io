@@ -18,7 +18,7 @@ install.packages('rdhte')
 
 - Help: [R Manual](https://cran.r-project.org/web/packages/rdhte/rdhte.pdf), [CRAN repository](https://cran.r-project.org/package=rdhte).
 
-- Replication: [R-script](https://github.com/rdpackages/rdhte/blob/main/R/rdhte_illustration.r), [dataset](https://github.com/rdpackages/rdhte/blob/main/R/rdhte_dataset.csv).
+- Replication: [R-script](https://github.com/rdpackages/rdhte/blob/main/R/rdhte_illustration.R), [dataset](https://github.com/rdpackages/rdhte/blob/main/R/rdhte_dataset.csv).
 
 
 ## Stata Implementation
