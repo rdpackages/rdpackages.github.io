@@ -33,7 +33,7 @@ Replication files and illustration code are available in the [replication](https
 - [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
 - [Ricardo Masini](https://anson.ucdavis.edu/~rmasini/), UC Davis.
 - [Filippo Palomba](https://filippopalomba.github.io/), Princeton University.
-- [Rocio Titiunik](https://scholar.princeton.edu/titiunik), Princeton University.
+- [Rocio Titiunik](https://titiunik.github.io/), Princeton University.
 - [Gonzalo Vazquez-Bare](https://sites.google.com/site/gvazquezbare), UC Santa Barbara.
 - [Ruiqi (Rae) Yu](https://ruiiiiqi.github.io/), Princeton University.
 
