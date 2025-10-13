@@ -37,12 +37,17 @@ Working paper.
 
 ### Technical and Methodological
 
-- Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BoundaryRD.pdf).<br>
+- Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Designs: Location-Based Methods](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-Location.pdf).<br>
 Working paper.<br>
-[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BoundaryRD--Supplement.pdf).
+[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-Location--Supplement.pdf).
 
-- Cattaneo, Titiunik and Yu (2025): [Causal Treatment Effect Aggregation in Boundary Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_AggregationBoundary.pdf).<br>
+- Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Designs: Distance-Based Methods](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-Distance.pdf).<br>
 Working paper.<br>
-[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_AggregationBoundary--Supplement.pdf).
+[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-Distance--Supplement.pdf).
+
+- Cattaneo, Titiunik and Yu (2025): [Identification, Estimation, and Inference for Boundary Average Treatment Effects](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-BATE.pdf).<br>
+Working paper.<br>
+[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-BATE--Supplement.pdf).
+
 
 <br><br>
