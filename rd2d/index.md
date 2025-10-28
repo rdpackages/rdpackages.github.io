@@ -45,9 +45,9 @@ Working paper.<br>
 Working paper.<br>
 [Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-Distance--Supplement.pdf).
 
-- Cattaneo, Titiunik and Yu (2025): [Identification, Estimation, and Inference for Boundary Average Treatment Effects](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-BATE.pdf).<br>
+- Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Designs: ooling-Based Methods](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-Pooling.pdf).<br>
 Working paper.<br>
-[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-BATE--Supplement.pdf).
+[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-Pooling--Supplement.pdf).
 
 
 <br><br>
