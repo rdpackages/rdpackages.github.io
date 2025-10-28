@@ -47,7 +47,7 @@ Working paper.
 - Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Designs: Distance-Based Methods](https://github.com/rdpackages-replication/CTY_2025_BDD-Distance).<br>
 Working paper.
 
-- Cattaneo, Titiunik and Yu (2025): [Identification, Estimation, and Inference for Boundary Average Treatment Effects](https://github.com/rdpackages-replication/CTY_2025_BDD-BATE).<br>
+- Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Designs: Pooling-Based Methods](https://github.com/rdpackages-replication/CTY_2025_BDD-Pooling).<br>
 Working paper.
 
 - Cattaneo, Keele, Titiunik and Vazquez-Bare (2021): [Extrapolating Treatment Effects in Multi-Cutoff Regression Discontinuity Designs](https://github.com/rdpackages-replication/CKTV_2021_JASA).<br>
