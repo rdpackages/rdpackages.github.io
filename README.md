@@ -29,17 +29,17 @@ Replication files and illustration code are available in the [replication](https
 ## Contributors
 
 - [Sebastian Calonico](https://sites.google.com/site/scalonico), UC Davis.
-- [Matias D. Cattaneo](https://cattaneo.princeton.edu), Princeton University.
+- [Matias D. Cattaneo](https://mdcattaneo.github.io/), Princeton University.
 - [Rajita Chandak](https://rajitachandak.github.io), University of Wisconsin-Madison.
-- [Nicolas Idrobo](https://idrobo.github.io/), University of Pennsylvania.
-- [Max H. Farrell](https://maxhfarrell.com/), UC Santa Barbara.
+- [Nicolas Idrobo](https://idrobo.github.io), University of Pennsylvania.
+- [Max H. Farrell](https://maxhfarrell.com), UC Santa Barbara.
 - [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley.
 - [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
-- [Ricardo Masini](https://anson.ucdavis.edu/~rmasini/), UC Davis.
-- [Filippo Palomba](https://filippopalomba.github.io/), Princeton University.
-- [Rocio Titiunik](https://titiunik.github.io/), Princeton University.
+- [Ricardo Masini](https://anson.ucdavis.edu/~rmasini), UC Davis.
+- [Filippo Palomba](https://filippopalomba.github.io), Princeton University.
+- [Rocio Titiunik](https://titiunik.github.io), Princeton University.
 - [Gonzalo Vazquez-Bare](https://sites.google.com/site/gvazquezbare), UC Santa Barbara.
-- [Ruiqi (Rae) Yu](https://ruiiiiqi.github.io/), Princeton University.
+- [Ruiqi (Rae) Yu](https://ruiiiiqi.github.io), Princeton University.
 
 ## Reviews and Introductions
 
