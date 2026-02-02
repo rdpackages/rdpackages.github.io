@@ -37,8 +37,8 @@ Working paper.
 
 ### Technical and Methodological
 
-- Cattaneo, Titiunik and Yu (2025): [Boundary Discontinuity Designs: Theory and Practice](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_ESWC.pdf).<br>
-Prepared for the 2025 Econometric Society World Congress. 
+- Cattaneo, Titiunik and Yu (2026): [Boundary Discontinuity Designs: Theory and Practice](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2026_ESWC.pdf).<br>
+Advances in Economics and Econometrics: Thirteenth World Congress, eds. R. Griffith, Y. Gorodnichenko, M. Kandori and F. Molinari, Cambridge University Press, Vol. 1, Ch. 2, to appear, 2026. 
 
 - Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Designs: Location-Based Methods](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-Location.pdf).<br>
 Working paper.<br>
@@ -48,9 +48,9 @@ Working paper.<br>
 Working paper.<br>
 [Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-Distance--Supplement.pdf).
 
-- Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Designs: Pooling-Based Methods](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-Pooling.pdf).<br>
+- Cattaneo, Titiunik and Yu (2026): [Estimation and Inference in Boundary Discontinuity Designs: Pooling-Based Methods](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2026_BDD-Pooling.pdf).<br>
 Working paper.<br>
-[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-Pooling--Supplement.pdf).
+[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2026_BDD-Pooling--Supplement.pdf).
 
 
 <br><br>
