@@ -44,8 +44,8 @@ Working paper.
 - Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Designs: Location-Based Methods](https://github.com/rdpackages-replication/CTY_2025_BDD-Location).<br>
 Working paper.
 
-- Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Designs: Distance-Based Methods](https://github.com/rdpackages-replication/CTY_2025_BDD-Distance).<br>
-Working paper.
+- Cattaneo, Titiunik and Yu (2026): [Estimation and Inference in Boundary Discontinuity Designs: Distance-Based Methods](https://github.com/rdpackages-replication/CTY_2026_JOE).<br>
+_Journal of Econometrics_, revise and resubmit.
 
 - Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Designs: Pooling-Based Methods](https://github.com/rdpackages-replication/CTY_2025_BDD-Pooling).<br>
 Working paper.
