@@ -41,8 +41,8 @@ _Journal of Policy Analysis and Management_ 36(3): 643-681.
 - Calonico, Cattaneo, Farrell, Palomba and Titiunik (2025): [Treatment Effect Heterogeneity in Regression Discontinuity Designs](https://github.com/rdpackages-replication/CCFPT_2025_wp).<br>
 Working paper.
 
-- Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Designs: Location-Based Methods](https://github.com/rdpackages-replication/CTY_2025_BDD-Location).<br>
-Working paper.
+- Cattaneo, Titiunik and Yu (2026): [Estimation and Inference in Boundary Discontinuity Designs: Location-Based Methods](https://github.com/rdpackages-replication/CTY_2026_JASA).<br>
+_Journal of American Statistical Association_, revise and resubmit.<br>
 
 - Cattaneo, Titiunik and Yu (2026): [Estimation and Inference in Boundary Discontinuity Designs: Distance-Based Methods](https://github.com/rdpackages-replication/CTY_2026_JOE).<br>
 _Journal of Econometrics_, revise and resubmit.

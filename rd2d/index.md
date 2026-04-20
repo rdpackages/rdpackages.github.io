@@ -40,9 +40,9 @@ Working paper.
 - Cattaneo, Titiunik and Yu (2026): [Boundary Discontinuity Designs: Theory and Practice](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2026_ESWC.pdf).<br>
 Advances in Economics and Econometrics: Thirteenth World Congress, eds. R. Griffith, Y. Gorodnichenko, M. Kandori and F. Molinari, Cambridge University Press, Vol. 1, Ch. 2, to appear, 2026. 
 
-- Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Designs: Location-Based Methods](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-Location.pdf).<br>
-Working paper.<br>
-[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_BDD-Location--Supplement.pdf).
+- Cattaneo, Titiunik and Yu (2026): [Estimation and Inference in Boundary Discontinuity Designs: Location-Based Methods](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2026_JASA.pdf).<br>
+_Journal of American Statistical Association_, revise and resubmit.<br>
+[Supplemental Appendix](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2026_JASA--Supplement.pdf).
 
 - Cattaneo, Titiunik and Yu (2026): [Estimation and Inference in Boundary Discontinuity Designs: Distance-Based Methods](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2026_JOE.pdf).<br>
 _Journal of Econometrics_, revise and resubmit.<br>
