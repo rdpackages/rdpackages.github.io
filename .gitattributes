@@ -1,0 +1,12 @@
+* text=auto
+
+*.css text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+*.xml text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+Gemfile text eol=lf
+
+*.ico binary
+*.pdf binary

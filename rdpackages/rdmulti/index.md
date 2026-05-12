@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: rdmulti
-permalink: /rdmulti/
+title: rdpackages/rdmulti
+permalink: /rdpackages/rdmulti/
 redirect_to: https://github.com/rdpackages/rdmulti
 sitemap: false
 description: Redirect to the rdmulti GitHub repository.

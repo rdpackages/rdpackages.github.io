@@ -1,15 +1,40 @@
 <!doctype html>
-<html lang="en-us">
+<html lang="{{ site.lang | default: 'en-US' }}">
 
   {% include head.html %}
 
-  <body class="theme-base-darkblue">
+  <body>
+    <a class="skip-link" href="#content">Skip to content</a>
 
-    {% include sidebar.html %}
+    <header class="site-header">
+      <div class="container nav-shell">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} home">
+          <span class="brand-mark">RD</span>
+          <span class="brand-text">{{ site.title }}</span>
+        </a>
 
-    <div class="content container">
-      {{ content }}
-    </div>
+        <nav class="site-nav" aria-label="Primary navigation">
+          <a href="{{ '/#packages' | relative_url }}">Packages</a>
+          <a href="{{ '/replication/' | relative_url }}">Replication</a>
+          <a href="{{ '/#references' | relative_url }}">References</a>
+          <a href="{{ '/#contributors' | relative_url }}">Contributors</a>
+          <a href="{{ '/#funding' | relative_url }}">Funding</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="content" class="site-main">
+      <div class="container">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <span>{{ site.title }}</span>
+        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+      </div>
+    </footer>
 
   </body>
 </html>

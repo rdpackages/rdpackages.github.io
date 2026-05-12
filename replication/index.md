@@ -1,8 +1,13 @@
-# REPLICATION
+---
+layout: page
+title: Replication
+permalink: /replication/
+description: Replication files and illustration code using RD Packages.
+---
 
-Replication files and illustration codes using RD Packages.
+# Replication
 
-This work was supported in part by the National Science Foundation through grants [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561), [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931), [SES-1459967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967), [SES-1947662](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662), [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805), [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432), and [SES-2241575](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241575), and by the National Institutes of Health through grant [R01 GM072611-16](https://reporter.nih.gov/project-details/10093056).
+Replication files and illustration code using RD Packages. Most entries point to public repositories maintained under the RD Packages replication organization.
 
 
 ## Overviews and Practical Introductions

@@ -1,22 +1,46 @@
-# Setup
-title       : RD Packages
-tagline     : 'RD Software Packages'
-description : 'Regression Discontinuity Designs Software Packages'
-keywords    : "regression discontinuity designs, program evaluation, causal inference, treatment effects, Python, R, Stata"
-url         : https://rdpackages.github.io
-baseurl     : ''
-paginate    : 5
+title: RD Packages
+tagline: RD Software Packages
+description: Software packages for regression discontinuity designs.
+keywords: regression discontinuity designs, program evaluation, causal inference, treatment effects, Python, R, Stata
+url: https://rdpackages.github.io
+baseurl: ""
+repository: rdpackages/rdpackages.github.io
+lang: en-US
+timezone: America/New_York
 
-
-# About and contact
 author:
-  name:           
-  url:            
+  name: RD Packages
+  email: rdpackages@googlegroups.com
+  url: https://rdpackages.github.io
 
-# Gems
-plugins:
-  - jekyll-paginate
-  - jekyll-gist
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 
-# Custom vars
-version:          3.0.0
+strict_front_matter: true
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+
+exclude:
+  - README.md
+  - AGENTS.md
+  - LICENSE.md
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+  - .bundle
+  - .jekyll-cache
+  - .jekyll-metadata
+  - .jekyll-preview.*
+  - .tmp
+  - _site
+  - vendor
+  - "*.log"
+
+version: 3.1.0

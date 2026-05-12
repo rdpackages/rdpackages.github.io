@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: rdhte
-permalink: /rdhte/
+title: rdpackages/rdhte
+permalink: /rdpackages/rdhte/
 redirect_to: https://github.com/rdpackages/rdhte
 sitemap: false
 description: Redirect to the rdhte GitHub repository.

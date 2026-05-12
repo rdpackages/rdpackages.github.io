@@ -1,8 +1,14 @@
 # Ignore docs files
 _gh_pages
 _site
+AGENTS.md
+.bundle
+.tmp
+.jekyll-metadata
 .ruby-version
 .jekyll-cache
+.jekyll-preview.*
+vendor/bundle
 
 # Numerous always-ignore extensions
 *.diff
@@ -29,6 +35,9 @@ nbproject
 *.sublime-project
 *.sublime-workspace
 .idea
+.vscode
+.history
+*.code-workspace
 
 # Komodo
 *.komodoproject

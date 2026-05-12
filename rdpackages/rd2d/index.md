@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: rd2d
-permalink: /rd2d/
+title: rdpackages/rd2d
+permalink: /rdpackages/rd2d/
 redirect_to: https://github.com/rdpackages/rd2d
 sitemap: false
 description: Redirect to the rd2d GitHub repository.

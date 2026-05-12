@@ -1,70 +1,74 @@
-# Regression Discontinuity Designs
+# RD Packages Website
 
-Software packages for analysis and interpretation of regression discontinuity designs and related methods. Replication files and illustration code employing these packages are also available. 
-
-This work was supported in part by the National Science Foundation through grants [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561), [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931), [SES-1459967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967), [SES-1947662](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662), [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805), [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432), and [SES-2241575](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241575), and by the National Institutes of Health through grant [R01 GM072611-16](https://reporter.nih.gov/project-details/10093056).
-
-## Website
+This repository hosts the public website for RD Packages:
 
 https://rdpackages.github.io
 
+The site is a lean entry point for regression discontinuity software, references, replication links, contributors, and funding acknowledgments. Package documentation lives in the individual package repositories.
+
+## Packages
+
+- [rdrobust](https://github.com/rdpackages/rdrobust): estimation, inference, and graphical procedures using local polynomial and partitioning regression methods.
+- [rdhte](https://github.com/rdpackages/rdhte): estimation and inference for heterogeneous treatment effects.
+- [rdlocrand](https://github.com/rdpackages/rdlocrand): finite-sample and large-sample estimation and inference using local randomization and related methods.
+- [rddensity](https://github.com/rdpackages/rddensity): manipulation testing using local polynomial density methods.
+- [rdpower](https://github.com/rdpackages/rdpower): power, sample size, and minimum detectable effects calculations using robust bias-corrected local polynomial inference.
+- [rd2d](https://github.com/rdpackages/rd2d): estimation and inference for boundary discontinuity designs.
+- [rdmulti](https://github.com/rdpackages/rdmulti): estimation, inference, RD plots, and extrapolation with multiple cutoffs and multiple scores.
+
+The legacy package URLs under this site, such as `/rdrobust/`, are kept as redirect stubs to the corresponding GitHub repositories. Mirror-style aliases under `/rdpackages/<package>/` are also generated as redirects.
+
+## Repository Structure
+
+- `_config.yml`: Jekyll and GitHub Pages settings.
+- `.editorconfig` and `.gitattributes`: editor and line-ending conventions.
+- `Gemfile`: local GitHub Pages/Jekyll dependencies.
+- `_includes/`: shared HTML fragments for metadata.
+- `_layouts/`: page templates.
+- `index.md`: homepage content.
+- `<package>/index.md`: package redirect stubs.
+- `rdpackages/<package>/index.md`: mirror-style package redirect aliases.
+- `replication/index.md`: replication resources.
+- `references/`: PDF references linked from the website.
+- `public/`: CSS and static assets.
+
+## Editing
+
+Most content changes happen in Markdown files. Each rendered page needs YAML front matter at the top, for example:
+
+```yaml
+---
+layout: page
+title: Page title
+permalink: /page-slug/
+---
+```
+
+Use relative internal links when possible, such as `/rdrobust/` or `/references/file.pdf`, so the site remains portable across local previews and GitHub Pages.
+
+## Local Preview
+
+This is a Jekyll site. On a machine with Ruby and Bundler installed:
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+Then open:
+
+```text
+http://127.0.0.1:4000
+```
+
+This checkout includes a `Gemfile` and `Gemfile.lock` for GitHub Pages/Jekyll dependencies.
+
+Note: local Windows builds were tested with Ruby 3.3.10. Ruby 3.4 exposed compatibility issues in the pinned `github-pages`/Jekyll 3.10 stack, so use Ruby 3.3.x for local GitHub Pages previews until the dependency stack is upgraded.
+
+## Deployment
+
+The repository is intended for GitHub Pages at `rdpackages.github.io`. The current source branch is `main`.
+
 ## Queries and Requests
 
-Please email: [rdpackages@googlegroups.com](mailto:rdpackages@googlegroups.com)
-
-## Software available in Python, R and Stata
-
-- [rdrobust](https://rdpackages.github.io/rdrobust): estimation, inference and graphical procedures using local polynomial and partitioning regression methods.
-- [rdhte](https://rdpackages.github.io/rdhte): estimation and inference for heterogeneous treatment effects.
-- [rdlocrand](https://rdpackages.github.io/rdlocrand): finite-sample and large-sample estimation and inference using local randomization and related methods.
-- [rddensity](https://rdpackages.github.io/rddensity): manipulation testing using local polynomial density methods.
-- [rdpower](https://rdpackages.github.io/rdpower): power, sample size, and minimum detectable effects calculations using robust bias-corrected local polynomial inference.
-- [rd2d](https://rdpackages.github.io/rd2d): estimation and inference for boundary discontinuity designs.
-- [rdmulti](https://rdpackages.github.io/rdmulti): estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
-
-## Replication
-
-Replication files and illustration code are available in the [replication](https://github.com/rdpackages-replication) repository.
-
-## Contributors
-
-- [Sebastian Calonico](https://sites.google.com/site/scalonico), UC Davis.
-- [Matias D. Cattaneo](https://mdcattaneo.github.io/), Princeton University.
-- [Rajita Chandak](https://rajitachandak.github.io), University of Wisconsin-Madison.
-- [Nicolas Idrobo](https://idrobo.github.io), University of Pennsylvania.
-- [Max H. Farrell](https://maxhfarrell.com), UC Santa Barbara.
-- [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley.
-- [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
-- [Ricardo Masini](https://anson.ucdavis.edu/~rmasini), UC Davis.
-- [Filippo Palomba](https://filippopalomba.github.io), Princeton University.
-- [Rocio Titiunik](https://titiunik.github.io), Princeton University.
-- [Gonzalo Vazquez-Bare](https://sites.google.com/site/gvazquezbare), UC Santa Barbara.
-- [Ruiqi (Rae) Yu](https://ruiiiiqi.github.io), Princeton University.
-
-## Reviews and Introductions
-
-- Cattaneo and Titiunik (2022): [Regression Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-Titiunik_2022_ARE.pdf).<br>
-<i>Annual Review of Economics</i> 14: 821-851.
-
-- Cattaneo, Idrobo and Titiunik (2020): [A Practical Introduction to Regression Discontinuity Designs: Foundations](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2020_CUP.pdf).<br>
-_Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press. [Erratum](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2020_CUP--erratum.pdf).
-
-- Cattaneo, Idrobo and Titiunik (2024): [A Practical Introduction to Regression Discontinuity Designs: Extensions](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2024_CUP.pdf).<br>
-_Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
-
-- Cattaneo, Titiunik and Yu (2025): [Boundary Discontinuity Designs: Theory and Practice](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_ESWC.pdf).<br>
-Prepared for the 2025 Econometric Society World Congress. 
-
-- Cattaneo, Keele and Titiunik (2023): [A Guide to Regression Discontinuity Designs in Medical Applications](https://rdpackages.github.io/references/Cattaneo-Keele-Titiunik_2023_SIM.pdf).<br>
-_Statistics in Medicine_ 42(24): 4484-4513.
-
-- Cattaneo, Titiunik and Vazquez-Bare (2020): [The Regression Discontinuity Design](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2020_Sage.pdf).<br>
-_Handbook of Research Methods in Political Science and International Relations_, Sage Publications, Ch. 44, pp. 835-857.
-
-- Cattaneo, Titiunik and Vazquez-Bare (2017): [Comparing Inference Approaches for RD Designs: A Reexamination of the Effect of Head Start on Child Mortality](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2017_JPAM.pdf).<br>
-_Journal of Policy Analysis and Management_ 36(3): 643-681.
-
-- Cattaneo and Vazquez-Bare (2016): [The Choice of Neighborhood in Regression Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-VazquezBare_2016_ObsStud.pdf).<br>
-_Observational Studies_ 2: 134-146.
-
-<br><br>
+Please email [rdpackages@googlegroups.com](mailto:rdpackages@googlegroups.com).

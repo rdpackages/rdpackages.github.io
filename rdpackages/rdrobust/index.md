@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: rdrobust
-permalink: /rdrobust/
+title: rdpackages/rdrobust
+permalink: /rdpackages/rdrobust/
 redirect_to: https://github.com/rdpackages/rdrobust
 sitemap: false
 description: Redirect to the rdrobust GitHub repository.

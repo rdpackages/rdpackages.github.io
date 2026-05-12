@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: rddensity
-permalink: /rddensity/
+title: rdpackages/rddensity
+permalink: /rdpackages/rddensity/
 redirect_to: https://github.com/rdpackages/rddensity
 sitemap: false
 description: Redirect to the rddensity GitHub repository.

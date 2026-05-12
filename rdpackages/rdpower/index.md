@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: rdpower
-permalink: /rdpower/
+title: rdpackages/rdpower
+permalink: /rdpackages/rdpower/
 redirect_to: https://github.com/rdpackages/rdpower
 sitemap: false
 description: Redirect to the rdpower GitHub repository.

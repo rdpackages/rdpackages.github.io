@@ -1,69 +1,211 @@
-# Regression Discontinuity Designs
+---
+layout: page
+title: Home
+permalink: /
+description: Software packages for analysis and interpretation of regression discontinuity designs and related methods.
+---
 
-Software packages for analysis and interpretation of regression discontinuity designs and related methods. Replication files and illustration codes employing these packages are also available. 
+<section class="hero" aria-labelledby="intro">
+  <h1 id="intro">Robust RD Methods</h1>
+  <p class="lead">RD Packages collects maintained software for estimation, inference, visualization, power analysis, density testing, local randomization, heterogeneous effects, boundary designs, and multi-cutoff or multi-score regression discontinuity designs.</p>
+</section>
 
-This work was supported in part by the National Science Foundation through grants [SES-1357561](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561), [SES-1459931](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931), [SES-1459967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967), [SES-1947662](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662), [SES-1947805](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805), [SES-2019432](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432), and [SES-2241575](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241575), and by the National Institutes of Health through grant [R01 GM072611-16](https://reporter.nih.gov/project-details/10093056).
+<section id="packages" class="section" aria-labelledby="packages-title">
+  <div class="section-header">
+    <h2 id="packages-title">Packages</h2>
+    <p>Package names link directly to GitHub. The old package pages on this site now redirect to those repositories so documentation does not drift.</p>
+  </div>
 
-## Queries and Requests
+  <div class="package-grid">
+    <article class="package-card">
+      <div>
+        <div class="package-card-header">
+          <h3><a href="https://github.com/rdpackages/rdrobust">rdrobust</a></h3>
+        </div>
+        <p>Local polynomial estimation, robust bias-corrected inference, and RD plots.</p>
+      </div>
+      <ul class="language-list" aria-label="Available languages">
+        <li>Python</li>
+        <li>R</li>
+        <li>Stata</li>
+      </ul>
+    </article>
 
-Please email: [rdpackages@googlegroups.com](mailto:rdpackages@googlegroups.com)
+    <article class="package-card">
+      <div>
+        <div class="package-card-header">
+          <h3><a href="https://github.com/rdpackages/rdhte">rdhte</a></h3>
+        </div>
+        <p>Estimation and inference for heterogeneous treatment effects in RD designs.</p>
+      </div>
+      <ul class="language-list" aria-label="Available languages">
+        <li>R</li>
+        <li>Stata</li>
+      </ul>
+    </article>
 
-## Software available in Python, R and Stata
+    <article class="package-card">
+      <div>
+        <div class="package-card-header">
+          <h3><a href="https://github.com/rdpackages/rdlocrand">rdlocrand</a></h3>
+        </div>
+        <p>Finite-sample and large-sample analysis using local randomization methods.</p>
+      </div>
+      <ul class="language-list" aria-label="Available languages">
+        <li>Python</li>
+        <li>R</li>
+        <li>Stata</li>
+      </ul>
+    </article>
 
-- [rdrobust](https://rdpackages.github.io/rdrobust): estimation, inference and graphical procedures using local polynomial and partitioning regression methods.
-- [rdhte](https://rdpackages.github.io/rdhte): estimation and inference for heterogeneous treatment effects.
-- [rdlocrand](https://rdpackages.github.io/rdlocrand): finite-sample and large-sample estimation and inference using local randomization and related methods.
-- [rddensity](https://rdpackages.github.io/rddensity): manipulation testing using local polynomial density methods.
-- [rdpower](https://rdpackages.github.io/rdpower): power, sample size, and minimum detectable effects calculations using robust bias-corrected local polynomial inference.
-- [rd2d](https://rdpackages.github.io/rd2d): estimation and inference for boundary discontinuity designs.
-- [rdmulti](https://rdpackages.github.io/rdmulti): estimation, inference, RD Plots, and extrapolation with multiple cutoffs and multiple scores.
+    <article class="package-card">
+      <div>
+        <div class="package-card-header">
+          <h3><a href="https://github.com/rdpackages/rddensity">rddensity</a></h3>
+        </div>
+        <p>Manipulation testing with local polynomial density estimation at the cutoff.</p>
+      </div>
+      <ul class="language-list" aria-label="Available languages">
+        <li>Python</li>
+        <li>R</li>
+        <li>Stata</li>
+      </ul>
+    </article>
 
-## Replication
+    <article class="package-card">
+      <div>
+        <div class="package-card-header">
+          <h3><a href="https://github.com/rdpackages/rdpower">rdpower</a></h3>
+        </div>
+        <p>Power, sample size, and minimum detectable effects calculations for RD studies.</p>
+      </div>
+      <ul class="language-list" aria-label="Available languages">
+        <li>Python</li>
+        <li>R</li>
+        <li>Stata</li>
+      </ul>
+    </article>
 
-Replication files and illustration code are available in the [replication](https://rdpackages.github.io/replication) page.
+    <article class="package-card">
+      <div>
+        <div class="package-card-header">
+          <h3><a href="https://github.com/rdpackages/rd2d">rd2d</a></h3>
+        </div>
+        <p>Estimation and inference for geographic and other boundary discontinuity designs.</p>
+      </div>
+      <ul class="language-list" aria-label="Available languages">
+        <li>R</li>
+      </ul>
+    </article>
 
-## Contributors
+    <article class="package-card">
+      <div>
+        <div class="package-card-header">
+          <h3><a href="https://github.com/rdpackages/rdmulti">rdmulti</a></h3>
+        </div>
+        <p>Methods for RD designs with multiple cutoffs, multiple scores, extrapolation, and RD plots.</p>
+      </div>
+      <ul class="language-list" aria-label="Available languages">
+        <li>Python</li>
+        <li>R</li>
+        <li>Stata</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-- [Sebastian Calonico](https://sites.google.com/site/scalonico), UC Davis.
-- [Matias D. Cattaneo](https://mdcattaneo.github.io/), Princeton University.
-- [Rajita Chandak](https://rajitachandak.github.io), University of Wisconsin-Madison.
-- [Nicolas Idrobo](https://idrobo.github.io), University of Pennsylvania.
-- [Max H. Farrell](https://maxhfarrell.com), UC Santa Barbara.
-- [Michael Jansson](http://www.econ.berkeley.edu/~mjansson/index.html), UC Berkeley.
-- [Xinwei Ma](https://sites.google.com/view/xinweima), UC San Diego.
-- [Ricardo Masini](https://anson.ucdavis.edu/~rmasini), UC Davis.
-- [Filippo Palomba](https://filippopalomba.github.io), Princeton University.
-- [Rocio Titiunik](https://titiunik.github.io), Princeton University.
-- [Gonzalo Vazquez-Bare](https://sites.google.com/site/gvazquezbare), UC Santa Barbara.
-- [Ruiqi (Rae) Yu](https://ruiiiiqi.github.io), Princeton University.
+<section id="replication" class="section" aria-labelledby="replication-title">
+  <div class="section-header">
+    <h2 id="replication-title">Replication Files</h2>
+    <p>Examples, paper replications, and companion code are collected on the <a href="{{ '/replication/' | relative_url }}">replication page</a>.</p>
+  </div>
+</section>
 
-## Reviews and Introductions
+<section id="references" class="section" aria-labelledby="references-title">
+  <div class="section-header">
+    <h2 id="references-title">References</h2>
+    <p>Selected overview articles, practical introductions, and related references for RD methods and applications.</p>
+  </div>
 
-- Cattaneo and Titiunik (2022): [Regression Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-Titiunik_2022_ARE.pdf).<br>
-<i>Annual Review of Economics</i> 14: 821-851.
+  <ol class="reference-list">
+    <li>
+      Cattaneo and Titiunik (2022): <a href="{{ '/references/Cattaneo-Titiunik_2022_ARE.pdf' | relative_url }}">Regression Discontinuity Designs</a>.
+      <span>Annual Review of Economics 14: 821-851.</span>
+    </li>
+    <li>
+      Cattaneo, Idrobo and Titiunik (2020): <a href="{{ '/references/Cattaneo-Idrobo-Titiunik_2020_CUP.pdf' | relative_url }}">A Practical Introduction to Regression Discontinuity Designs: Foundations</a>.
+      <span>Cambridge Elements: Quantitative and Computational Methods for Social Science, Cambridge University Press. <a href="{{ '/references/Cattaneo-Idrobo-Titiunik_2020_CUP--erratum.pdf' | relative_url }}">Erratum</a>.</span>
+    </li>
+    <li>
+      Cattaneo, Idrobo and Titiunik (2024): <a href="{{ '/references/Cattaneo-Idrobo-Titiunik_2024_CUP.pdf' | relative_url }}">A Practical Introduction to Regression Discontinuity Designs: Extensions</a>.
+      <span>Cambridge Elements: Quantitative and Computational Methods for Social Science, Cambridge University Press.</span>
+    </li>
+    <li>
+      Cattaneo, Titiunik and Yu (2026): <a href="{{ '/references/Cattaneo-Titiunik-Yu_2026_ESWC.pdf' | relative_url }}">Boundary Discontinuity Designs: Theory and Practice</a>.
+      <span>Advances in Economics and Econometrics: Thirteenth World Congress, Cambridge University Press, Vol. 1, Ch. 2, to appear.</span>
+    </li>
+    <li>
+      Cattaneo, Keele and Titiunik (2023): <a href="{{ '/references/Cattaneo-Keele-Titiunik_2023_SIM.pdf' | relative_url }}">A Guide to Regression Discontinuity Designs in Medical Applications</a>.
+      <span>Statistics in Medicine 42(24): 4484-4513.</span>
+    </li>
+    <li>
+      Cattaneo, Titiunik and Vazquez-Bare (2020): <a href="{{ '/references/Cattaneo-Titiunik-VazquezBare_2020_Sage.pdf' | relative_url }}">The Regression Discontinuity Design</a>.
+      <span>Handbook of Research Methods in Political Science and International Relations, Sage Publications, Ch. 44, pp. 835-857.</span>
+    </li>
+    <li>
+      Cattaneo, Titiunik and Vazquez-Bare (2017): <a href="{{ '/references/Cattaneo-Titiunik-VazquezBare_2017_JPAM.pdf' | relative_url }}">Comparing Inference Approaches for RD Designs: A Reexamination of the Effect of Head Start on Child Mortality</a>.
+      <span>Journal of Policy Analysis and Management 36(3): 643-681.</span>
+    </li>
+    <li>
+      Cattaneo and Titiunik (2024): <a href="{{ '/references/Cattaneo-Titiunik_2024_STS--Comment.pdf' | relative_url }}">Comment: Protocols for Observational Studies: An Application to Regression Discontinuity Designs</a>.
+      <span>Statistical Science 39(4): 560-565.</span>
+    </li>
+    <li>
+      Cattaneo and Vazquez-Bare (2016): <a href="{{ '/references/Cattaneo-VazquezBare_2016_ObsStud.pdf' | relative_url }}">The Choice of Neighborhood in Regression Discontinuity Designs</a>.
+      <span>Observational Studies 2: 134-146.</span>
+    </li>
+  </ol>
+</section>
 
-- Cattaneo, Idrobo and Titiunik (2020): [A Practical Introduction to Regression Discontinuity Designs: Foundations](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2020_CUP.pdf).<br>
-_Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press. [Erratum](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2020_CUP--erratum.pdf).
+<section id="contributors" class="section" aria-labelledby="contributors-title">
+  <div class="section-header">
+    <h2 id="contributors-title">Contributors</h2>
+    <p>Researchers and developers contributing to the RD Packages software family.</p>
+  </div>
 
-- Cattaneo, Idrobo and Titiunik (2024): [A Practical Introduction to Regression Discontinuity Designs: Extensions](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2024_CUP.pdf).<br>
-_Cambridge Elements: Quantitative and Computational Methods for Social Science_, Cambridge University Press.
+  <ul class="people-list">
+    <li><a href="https://sites.google.com/site/scalonico">Sebastian Calonico</a>UC Davis</li>
+    <li><a href="https://mdcattaneo.github.io/">Matias D. Cattaneo</a>Princeton University</li>
+    <li><a href="https://rajitachandak.github.io">Rajita Chandak</a>University of Wisconsin-Madison</li>
+    <li><a href="https://idrobo.github.io">Nicolas Idrobo</a>University of Pennsylvania</li>
+    <li><a href="https://maxhfarrell.com">Max H. Farrell</a>UC Santa Barbara</li>
+    <li><a href="http://www.econ.berkeley.edu/~mjansson/index.html">Michael Jansson</a>UC Berkeley</li>
+    <li><a href="https://sites.google.com/view/xinweima">Xinwei Ma</a>UC San Diego</li>
+    <li><a href="https://anson.ucdavis.edu/~rmasini">Ricardo Masini</a>UC Davis</li>
+    <li><a href="https://filippopalomba.github.io">Filippo Palomba</a>Princeton University</li>
+    <li><a href="https://titiunik.github.io">Rocio Titiunik</a>Princeton University</li>
+    <li><a href="https://sites.google.com/site/gvazquezbare">Gonzalo Vazquez-Bare</a>UC Santa Barbara</li>
+    <li><a href="https://ruiiiiqi.github.io">Ruiqi (Rae) Yu</a>Princeton University</li>
+  </ul>
+</section>
 
-- Cattaneo, Titiunik and Yu (2025): [Boundary Discontinuity Designs: Theory and Practice](https://rdpackages.github.io/references/Cattaneo-Titiunik-Yu_2025_ESWC.pdf).<br>
-Prepared for the 2025 Econometric Society World Congress. 
+<section id="funding" class="section" aria-labelledby="funding-title">
+  <div class="section-header">
+    <h2 id="funding-title">Funding</h2>
+    <p>This work was supported in part by the National Science Foundation, the National Institutes of Health, and the National Institute for Food and Agriculture.</p>
+  </div>
 
-- Cattaneo, Keele and Titiunik (2023): [A Guide to Regression Discontinuity Designs in Medical Applications](https://rdpackages.github.io/references/Cattaneo-Keele-Titiunik_2023_SIM.pdf).<br>
-_Statistics in Medicine_ 42(24): 4484-4513.
-
-- Cattaneo, Titiunik and Vazquez-Bare (2020): [The Regression Discontinuity Design](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2020_Sage.pdf).<br>
-_Handbook of Research Methods in Political Science and International Relations_, Sage Publications, Ch. 44, pp. 835-857.
-
-- Cattaneo, Titiunik and Vazquez-Bare (2017): [Comparing Inference Approaches for RD Designs: A Reexamination of the Effect of Head Start on Child Mortality](https://rdpackages.github.io/references/Cattaneo-Titiunik-VazquezBare_2017_JPAM.pdf).<br>
-_Journal of Policy Analysis and Management_ 36(3): 643-681.
-
-- Cattaneo and Titiunik (2024): [Comment: Protocols for Observational Studies: An Application to Regression Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-Titiunik_2024_STS--Comment.pdf).<br>
-<i>Statistical Science</i> 39(4): 560-565.
-
-- Cattaneo and Vazquez-Bare (2016): [The Choice of Neighborhood in Regression Discontinuity Designs](https://rdpackages.github.io/references/Cattaneo-VazquezBare_2016_ObsStud.pdf).<br>
-_Observational Studies_ 2: 134-146.
-
-<br><br>
+  <ul class="funding-list" aria-label="Funding grants">
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561">NSF SES-1357561</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931">NSF SES-1459931</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967">NSF SES-1459967</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662">NSF SES-1947662</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805">NSF SES-1947805</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432">NSF SES-2019432</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2210561">NSF DMS-2210561</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241575">NSF SES-2241575</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342226">NSF SES-2342226</a></li>
+    <li><a href="https://reporter.nih.gov/project-details/10093056">NIH R01 GM072611-16</a></li>
+    <li><a href="https://www.nifa.usda.gov/data">NIFA 2024-67023-42704</a></li>
+  </ul>
+</section>
