@@ -13,7 +13,6 @@ description: Software packages for analysis and interpretation of regression dis
 <section id="packages" class="section" aria-labelledby="packages-title">
   <div class="section-header">
     <h2 id="packages-title">Packages</h2>
-    <p>Package names link directly to GitHub. The old package pages on this site now redirect to those repositories so documentation does not drift.</p>
   </div>
 
   <div class="package-grid">
