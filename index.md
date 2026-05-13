@@ -6,7 +6,7 @@ description: Software packages for analysis and interpretation of regression dis
 ---
 
 <section class="hero" aria-labelledby="intro">
-  <h1 id="intro">Robust RD Methods</h1>
+  <h1 id="intro">Regression Discontinuity Methods</h1>
   <p class="lead">RD Packages collects maintained software for estimation, inference, visualization, power analysis, density testing, local randomization, heterogeneous effects, boundary designs, and multi-cutoff or multi-score regression discontinuity designs.</p>
 </section>
 
