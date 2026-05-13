@@ -65,9 +65,17 @@ This checkout includes a `Gemfile` and `Gemfile.lock` for GitHub Pages/Jekyll de
 
 Note: local Windows builds were tested with Ruby 3.3.10. Ruby 3.4 exposed compatibility issues in the pinned `github-pages`/Jekyll 3.10 stack, so use Ruby 3.3.x for local GitHub Pages previews until the dependency stack is upgraded.
 
+## Repository Maintenance
+
+GitHub Actions validates whitespace and the Jekyll build on pushes and pull requests to `main`. Dependabot checks the Bundler and GitHub Actions dependency surfaces monthly.
+
 ## Deployment
 
 The repository is intended for GitHub Pages at `rdpackages.github.io`. The current source branch is `main`.
+
+## Security
+
+Please report security concerns or website integrity issues by email, not through a public issue.
 
 ## Queries and Requests
 

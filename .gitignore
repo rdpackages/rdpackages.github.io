@@ -1,14 +1,17 @@
-# Ignore docs files
-_gh_pages
-_site
+# Local Jekyll, Bundler, and preview artifacts
+_gh_pages/
+_site/
 AGENTS.md
-.bundle
-.tmp
+.bundle/
+.tmp/
+.jekyll-cache/
 .jekyll-metadata
-.ruby-version
-.jekyll-cache
 .jekyll-preview.*
-vendor/bundle
+.ruby-version
+.sass-cache/
+vendor/bundle/
+vendor/cache/
+vendor/ruby/
 
 # Numerous always-ignore extensions
 *.diff

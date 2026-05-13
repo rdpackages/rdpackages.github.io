@@ -195,7 +195,7 @@ img {
 }
 
 .hero {
-  padding: 0 0 3.5rem;
+  padding: 0 0 1.75rem;
 }
 
 .hero h1 {
@@ -213,7 +213,7 @@ img {
 }
 
 .section {
-  padding: 1.4rem 0 3.25rem;
+  padding: 0.7rem 0 1.625rem;
   border-top: 1px solid var(--line);
 }
 
