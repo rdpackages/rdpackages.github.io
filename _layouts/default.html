@@ -13,13 +13,17 @@
           <span class="brand-text">{{ site.title }}</span>
         </a>
 
-        <nav class="site-nav" aria-label="Primary navigation">
-          <a href="{{ '/#packages' | relative_url }}">Packages</a>
-          <a href="{{ '/replication/' | relative_url }}">Replication</a>
-          <a href="{{ '/#references' | relative_url }}">References</a>
-          <a href="{{ '/#contributors' | relative_url }}">Contributors</a>
-          <a href="{{ '/#funding' | relative_url }}">Funding</a>
-        </nav>
+        <div class="nav-menu">
+          <input class="nav-toggle-control" type="checkbox" id="site-nav-toggle" aria-label="Toggle navigation menu" aria-controls="site-nav">
+          <label class="nav-toggle" for="site-nav-toggle">Menu</label>
+          <nav id="site-nav" class="site-nav" aria-label="Primary navigation">
+            <a href="{{ '/#packages' | relative_url }}">Packages</a>
+            <a href="{{ '/replication/' | relative_url }}">Replication</a>
+            <a href="{{ '/#references' | relative_url }}">References</a>
+            <a href="{{ '/#contributors' | relative_url }}">Contributors</a>
+            <a href="{{ '/#funding' | relative_url }}">Funding</a>
+          </nav>
+        </div>
       </div>
     </header>
 

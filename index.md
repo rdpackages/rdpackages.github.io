@@ -130,39 +130,39 @@ description: Software packages for analysis and interpretation of regression dis
   <ol class="reference-list">
     <li>
       Cattaneo and Titiunik (2022): <a href="{{ '/references/Cattaneo-Titiunik_2022_ARE.pdf' | relative_url }}">Regression Discontinuity Designs</a>.
-      <span>Annual Review of Economics 14: 821-851.</span>
+      <span><em>Annual Review of Economics</em> 14: 821-851.</span>
     </li>
     <li>
       Cattaneo, Idrobo and Titiunik (2020): <a href="{{ '/references/Cattaneo-Idrobo-Titiunik_2020_CUP.pdf' | relative_url }}">A Practical Introduction to Regression Discontinuity Designs: Foundations</a>.
-      <span>Cambridge Elements: Quantitative and Computational Methods for Social Science, Cambridge University Press. <a href="{{ '/references/Cattaneo-Idrobo-Titiunik_2020_CUP--erratum.pdf' | relative_url }}">Erratum</a>.</span>
+      <span><em>Cambridge Elements: Quantitative and Computational Methods for Social Science</em>, Cambridge University Press. <a href="{{ '/references/Cattaneo-Idrobo-Titiunik_2020_CUP--erratum.pdf' | relative_url }}">Erratum</a>.</span>
     </li>
     <li>
       Cattaneo, Idrobo and Titiunik (2024): <a href="{{ '/references/Cattaneo-Idrobo-Titiunik_2024_CUP.pdf' | relative_url }}">A Practical Introduction to Regression Discontinuity Designs: Extensions</a>.
-      <span>Cambridge Elements: Quantitative and Computational Methods for Social Science, Cambridge University Press.</span>
+      <span><em>Cambridge Elements: Quantitative and Computational Methods for Social Science</em>, Cambridge University Press.</span>
     </li>
     <li>
       Cattaneo, Titiunik and Yu (2026): <a href="{{ '/references/Cattaneo-Titiunik-Yu_2026_ESWC.pdf' | relative_url }}">Boundary Discontinuity Designs: Theory and Practice</a>.
-      <span>Advances in Economics and Econometrics: Thirteenth World Congress, Cambridge University Press, Vol. 1, Ch. 2, to appear.</span>
+      <span><em>Advances in Economics and Econometrics: Thirteenth World Congress</em>, Cambridge University Press, Vol. 1, Ch. 2, to appear.</span>
     </li>
     <li>
       Cattaneo, Keele and Titiunik (2023): <a href="{{ '/references/Cattaneo-Keele-Titiunik_2023_SIM.pdf' | relative_url }}">A Guide to Regression Discontinuity Designs in Medical Applications</a>.
-      <span>Statistics in Medicine 42(24): 4484-4513.</span>
+      <span><em>Statistics in Medicine</em> 42(24): 4484-4513.</span>
     </li>
     <li>
       Cattaneo, Titiunik and Vazquez-Bare (2020): <a href="{{ '/references/Cattaneo-Titiunik-VazquezBare_2020_Sage.pdf' | relative_url }}">The Regression Discontinuity Design</a>.
-      <span>Handbook of Research Methods in Political Science and International Relations, Sage Publications, Ch. 44, pp. 835-857.</span>
+      <span><em>Handbook of Research Methods in Political Science and International Relations</em>, Sage Publications, Ch. 44, pp. 835-857.</span>
     </li>
     <li>
       Cattaneo, Titiunik and Vazquez-Bare (2017): <a href="{{ '/references/Cattaneo-Titiunik-VazquezBare_2017_JPAM.pdf' | relative_url }}">Comparing Inference Approaches for RD Designs: A Reexamination of the Effect of Head Start on Child Mortality</a>.
-      <span>Journal of Policy Analysis and Management 36(3): 643-681.</span>
+      <span><em>Journal of Policy Analysis and Management</em> 36(3): 643-681.</span>
     </li>
     <li>
       Cattaneo and Titiunik (2024): <a href="{{ '/references/Cattaneo-Titiunik_2024_STS--Comment.pdf' | relative_url }}">Comment: Protocols for Observational Studies: An Application to Regression Discontinuity Designs</a>.
-      <span>Statistical Science 39(4): 560-565.</span>
+      <span><em>Statistical Science</em> 39(4): 560-565.</span>
     </li>
     <li>
       Cattaneo and Vazquez-Bare (2016): <a href="{{ '/references/Cattaneo-VazquezBare_2016_ObsStud.pdf' | relative_url }}">The Choice of Neighborhood in Regression Discontinuity Designs</a>.
-      <span>Observational Studies 2: 134-146.</span>
+      <span><em>Observational Studies</em> 2: 134-146.</span>
     </li>
   </ol>
 </section>

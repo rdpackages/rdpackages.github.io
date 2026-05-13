@@ -7,7 +7,7 @@ description: Replication files and illustration code using RD Packages.
 
 # Replication
 
-Replication files and illustration code using RD Packages. Most entries point to public repositories maintained under the RD Packages replication organization.
+Replication files and illustration code using RD Packages.
 
 
 ## Overviews and Practical Introductions
