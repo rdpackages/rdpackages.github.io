@@ -169,7 +169,6 @@ description: Software packages for analysis and interpretation of regression dis
 <section id="contributors" class="section" aria-labelledby="contributors-title">
   <div class="section-header">
     <h2 id="contributors-title">Contributors</h2>
-    <p>Researchers and developers contributing to the RD Packages software family.</p>
   </div>
 
   <ul class="people-list">
