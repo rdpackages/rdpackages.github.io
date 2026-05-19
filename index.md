@@ -116,7 +116,7 @@ description: Software packages for analysis and interpretation of regression dis
 <section id="replication" class="section" aria-labelledby="replication-title">
   <div class="section-header">
     <h2 id="replication-title">Replication Files</h2>
-    <p>Examples, paper replications, and companion code are collected on the <a href="{{ '/replication/' | relative_url }}">replication page</a>.</p>
+    <p>Examples, paper replications, and companion code are collected on the <a class="replication-card-link" href="{{ '/replication/' | relative_url }}">replication page</a>.</p>
   </div>
 </section>
 
@@ -177,7 +177,7 @@ description: Software packages for analysis and interpretation of regression dis
     <li><a href="https://rajitachandak.github.io">Rajita Chandak</a>University of Wisconsin-Madison</li>
     <li><a href="https://idrobo.github.io">Nicolas Idrobo</a>University of Pennsylvania</li>
     <li><a href="https://maxhfarrell.com">Max H. Farrell</a>UC Santa Barbara</li>
-    <li><a href="http://www.econ.berkeley.edu/~mjansson/index.html">Michael Jansson</a>UC Berkeley</li>
+    <li><a href="https://econ.berkeley.edu/profile/michael-jansson">Michael Jansson</a>UC Berkeley</li>
     <li><a href="https://sites.google.com/view/xinweima">Xinwei Ma</a>UC San Diego</li>
     <li><a href="https://anson.ucdavis.edu/~rmasini">Ricardo Masini</a>UC Davis</li>
     <li><a href="https://filippopalomba.github.io">Filippo Palomba</a>Princeton University</li>
@@ -204,6 +204,6 @@ description: Software packages for analysis and interpretation of regression dis
     <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241575">NSF SES-2241575</a></li>
     <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342226">NSF SES-2342226</a></li>
     <li><a href="https://reporter.nih.gov/project-details/10093056">NIH R01 GM072611-16</a></li>
-    <li><a href="https://www.nifa.usda.gov/data">NIFA 2024-67023-42704</a></li>
+    <li><a href="https://portal.nifa.usda.gov/enterprise-search/ss/2525">NIFA 2024-67023-42704</a></li>
   </ul>
 </section>

@@ -22,18 +22,10 @@ _Cambridge Elements: Quantitative and Computational Methods for Social Science_,
 _Statistics in Medicine_ 42(24): 4484-4513.
 
 - Cattaneo and Palomba (2025): [Leveraging Covariates in Regression Discontinuity Designs](https://github.com/rdpackages-replication/CP_2025_IZAWOL).<br>
-_IZA World of Labor_, to appear.
+_IZA World of Labor_ 521.
 
 - Cattaneo and Titiunik (2021): [RD Tutorial](https://github.com/rdpackages-replication/CT_2021_NBER).<br>
 _NBER Summer Institute Methods Lectures_.
-
-<!---
-- Titiunik (2021): [RD Tutorial](https://github.com/rdpackages-replication/T_2021_PPRN).<br>
-_Master Class_, Public Policy Research Network.
-
-- Cattaneo (2020): [RD Tutorial](https://github.com/rdpackages-replication/C_2020_Chamberlain).<br>
-_The Gary Chamberlain Online Seminar in Econometrics_.
--->
 
 - Cattaneo, Titiunik and Vazquez-Bare (2020): [The Regression Discontinuity Design](https://github.com/rdpackages-replication/CTV_2020_Sage).<br>
 _Handbook of Research Methods in Political Science and International Relations_, Sage Publications, Ch. 44, pp. 835-857.

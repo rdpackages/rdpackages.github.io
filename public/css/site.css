@@ -137,7 +137,7 @@ img {
   place-items: center;
   border-radius: 7px;
   color: #fff;
-  background: var(--accent);
+  background: var(--accent-strong);
   font-size: 0.85rem;
 }
 
@@ -267,6 +267,25 @@ img {
 .package-card p {
   margin-bottom: 0;
   color: var(--muted);
+}
+
+.replication-card-link {
+  display: inline-block;
+  margin: 0 0.15rem;
+  padding: 0 0.45rem 0.12rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--accent-strong);
+  background: var(--panel);
+  font-weight: 400;
+  line-height: inherit;
+}
+
+.replication-card-link:hover,
+.replication-card-link:focus {
+  border-color: #b8c8c4;
+  color: var(--warm);
+  box-shadow: 0 10px 28px rgba(22, 42, 38, 0.07);
 }
 
 .language-list {
