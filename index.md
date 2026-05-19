@@ -95,6 +95,7 @@ description: Software packages for analysis and interpretation of regression dis
       <ul class="language-list" aria-label="Available languages">
         <li>Python</li>
         <li>R</li>
+        <li>Stata</li>
       </ul>
     </article>
 
