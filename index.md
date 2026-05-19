@@ -93,6 +93,7 @@ description: Software packages for analysis and interpretation of regression dis
         <p>Estimation and inference for geographic and other boundary discontinuity designs.</p>
       </div>
       <ul class="language-list" aria-label="Available languages">
+        <li>Python</li>
         <li>R</li>
       </ul>
     </article>
