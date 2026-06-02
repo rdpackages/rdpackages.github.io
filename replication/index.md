@@ -42,7 +42,7 @@ Working paper.
 _Journal of American Statistical Association_, revise and resubmit.<br>
 
 - Cattaneo, Titiunik and Yu (2026): [Estimation and Inference in Boundary Discontinuity Designs: Distance-Based Methods](https://github.com/rdpackages-replication/CTY_2026_JOE).<br>
-_Journal of Econometrics_, revise and resubmit.
+_Journal of Econometrics_ 256(A): 106266.
 
 - Cattaneo, Titiunik and Yu (2025): [Estimation and Inference in Boundary Discontinuity Designs: Pooling-Based Methods](https://github.com/rdpackages-replication/CTY_2025_BDD-Pooling).<br>
 Working paper.
