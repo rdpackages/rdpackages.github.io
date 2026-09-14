@@ -147,6 +147,10 @@ description: Software packages for analysis and interpretation of regression dis
       <span><em>Advances in Economics and Econometrics: Thirteenth World Congress</em>, Cambridge University Press, Vol. 1, Ch. 2, to appear.</span>
     </li>
     <li>
+      Cattaneo and Titiunik (2026): <a href="{{ '/references/Cattaneo-Titiunik_2026_JAMA.pdf' | relative_url }}">Using Regression Discontinuity Approaches to Evaluate Threshold-Guided Interventions</a>.
+      <span><em>Journal of the American Medical Association</em>, to appear.</span>
+    </li>
+    <li>
       Cattaneo, Keele and Titiunik (2023): <a href="{{ '/references/Cattaneo-Keele-Titiunik_2023_SIM.pdf' | relative_url }}">A Guide to Regression Discontinuity Designs in Medical Applications</a>.
       <span><em>Statistics in Medicine</em> 42(24): 4484-4513.</span>
     </li>
