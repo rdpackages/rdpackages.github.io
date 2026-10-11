@@ -179,12 +179,12 @@ description: Software packages for analysis and interpretation of regression dis
   </div>
 
   <ul class="people-list">
-    <li><a href="https://sites.google.com/site/scalonico">Sebastian Calonico</a>UC Davis</li>
+    <li><a href="https://scalonico.github.io/">Sebastian Calonico</a>UC Davis</li>
     <li><a href="https://mdcattaneo.github.io/">Matias D. Cattaneo</a>Princeton University</li>
     <li><a href="https://rajitachandak.github.io">Rajita Chandak</a>University of Wisconsin-Madison</li>
     <li><a href="https://idrobo.github.io">Nicolas Idrobo</a>University of Pennsylvania</li>
     <li><a href="https://maxhfarrell.com">Max H. Farrell</a>UC Santa Barbara</li>
-    <li><a href="https://econ.berkeley.edu/profile/michael-jansson">Michael Jansson</a>UC Berkeley</li>
+    <li><a href="https://sites.google.com/berkeley.edu/michael-jansson/">Michael Jansson</a>UC Berkeley</li>
     <li><a href="https://sites.google.com/view/xinweima">Xinwei Ma</a>UC San Diego</li>
     <li><a href="https://anson.ucdavis.edu/~rmasini">Ricardo Masini</a>UC Davis</li>
     <li><a href="https://filippopalomba.github.io">Filippo Palomba</a>Princeton University</li>
