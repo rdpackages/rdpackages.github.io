@@ -201,16 +201,16 @@ description: Software packages for analysis and interpretation of regression dis
   </div>
 
   <ul class="funding-list" aria-label="Funding grants">
-    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1357561">NSF SES-1357561</a></li>
-    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459931">NSF SES-1459931</a></li>
-    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1459967">NSF SES-1459967</a></li>
-    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947662">NSF SES-1947662</a></li>
-    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1947805">NSF SES-1947805</a></li>
-    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2019432">NSF SES-2019432</a></li>
-    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2210561">NSF DMS-2210561</a></li>
-    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241575">NSF SES-2241575</a></li>
-    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2342226">NSF SES-2342226</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1357561">NSF SES-1357561</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1459931">NSF SES-1459931</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1459967">NSF SES-1459967</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1947662">NSF SES-1947662</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=1947805">NSF SES-1947805</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2019432">NSF SES-2019432</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2210561">NSF DMS-2210561</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2241575">NSF SES-2241575</a></li>
+    <li><a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2342226">NSF SES-2342226</a></li>
     <li><a href="https://reporter.nih.gov/project-details/10093056">NIH R01 GM072611-16</a></li>
-    <li><a href="https://portal.nifa.usda.gov/enterprise-search/ss/2525">NIFA 2024-67023-42704</a></li>
+    <li><a href="https://portal.nifa.usda.gov/enterprise-search/projects/1032455">NIFA 2024-67023-42704</a></li>
   </ul>
 </section>
