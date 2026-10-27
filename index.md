@@ -185,7 +185,7 @@ description: Software packages for analysis and interpretation of regression dis
     <li><a href="https://idrobo.github.io">Nicolas Idrobo</a>University of Pennsylvania</li>
     <li><a href="https://maxhfarrell.com">Max H. Farrell</a>UC Santa Barbara</li>
     <li><a href="https://sites.google.com/berkeley.edu/michael-jansson/">Michael Jansson</a>UC Berkeley</li>
-    <li><a href="https://sites.google.com/view/xinweima">Xinwei Ma</a>UC San Diego</li>
+    <li><a href="https://xinweima.github.io/">Xinwei Ma</a>UC San Diego</li>
     <li><a href="https://anson.ucdavis.edu/~rmasini">Ricardo Masini</a>UC Davis</li>
     <li><a href="https://filippopalomba.github.io">Filippo Palomba</a>Princeton University</li>
     <li><a href="https://titiunik.github.io">Rocio Titiunik</a>Princeton University</li>
